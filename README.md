@@ -4,6 +4,10 @@ Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door
 
 ## Learning Log
 
+### 11 sept - Schooldag - feedback
+
+Learning Log bijwerken!
+
 ### 10 sept. - Thuis werken
 
 Vandaag was ik bezig met de eerste opzet van mijn Digital Garden. Ik heb besloten om te kiezen voor een wesbite lay out, waar er bovenaan een keuzemenu staat, die je naar verschillende webpagina's kan brengen.

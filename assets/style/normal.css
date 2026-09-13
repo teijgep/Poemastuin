@@ -3,8 +3,13 @@ html {
   --background: #f5b5e0;
 }
 
+@font-face {
+  font-family: "Bubblegum";
+  src: url(Bubblegum.ttf);
+}
+
 body {
-  font-family: "Arial, sans-serif";
+  font-family: "Bubblegum";
   background-color: var(--background);
   color: black;
   color-scheme: light dark;
@@ -31,7 +36,6 @@ h1 {
   	radial-gradient(
 			pink,
       plum
-		
 		);
   color: #f2f2f2;
   text-align: center;
@@ -48,5 +52,10 @@ h1 {
 .topnav a.active {
   background-color: plum;
   color: white;
+}
+
+img {
+  height: 50px;
+  width: 50px;
 }
 
