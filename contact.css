@@ -2,6 +2,11 @@ html {
  background-color: #f5b5e0;
 }
 
+@font-face {
+  font-family: LEMONMILK-Regular;
+  src: url("LEMONMILK-Regular.otf");
+}
+
 body {
 font-family: LEMONMILK-Regular;
 }

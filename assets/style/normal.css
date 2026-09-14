@@ -1,6 +1,6 @@
 /* HIER KOMT JOUW CSS */
 html {
-  --background: #f5b5e0;
+  color-scheme: light da-;
 }
 
 @font-face {
@@ -14,12 +14,19 @@ html {
 }
 
 body {
-  background-color: var(--background);
+  background-color: #f5b5e0;
   color: black;
   color-scheme: light dark;
   text-align: left;
   padding-left: 50px;
   padding-right: 50px;
+}
+
+@media (prefers-color-scheme:) {
+  body {
+    background-color:#36040f;
+    color: white;
+}
 }
 
 .topnav {
@@ -42,8 +49,6 @@ h2 {
   font-family: LEMONMILK-Regular;
   font-size: 30px;
 }
-
-
 
 p {
   font-family: LEMONMILK-Regular;

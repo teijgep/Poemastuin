@@ -6,7 +6,20 @@ Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door
 
 ### 14 sept - Schooldag
 
-Ik moet ervoor zorgen, dat de website er beter uitziet in klein voormaat, aangezien hij nuer het beste uit ziet in groot formaat.
+Ik moet ervoor zorgen, dat de website er beter uitziet in klein voormaat, aangezien hij nu er het beste uit ziet in groot formaat.
+
+Check-out:
+
+Leg uit wanneer een website 'lelijk' wordt
+Genoeg CCS gebruiken voor de vormgeving en zorgen dat alles op de website "responsive" is.
+
+Vertel welke volgende stap je neemt om je website responsive te maken.
+
+Zorgen dat de teskt (en afbeeldingen) zich aanpast op basis van het formaat scherm.
+
+Kun je het ontwerp en de bouw van je eigen Garden (zo uit je hoofd) onderbouwen in Webby vocabulair?
+
+Wel als ik de lijst van Webby woorden er bij houd.
 
 ### 11 sept - Schooldag - feedback
 
