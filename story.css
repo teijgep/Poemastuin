@@ -9,6 +9,7 @@ html {
 
 body {
 font-family: LEMONMILK-Regular;
+}
 
 .homenav a {
   background-color: black;
@@ -21,5 +22,3 @@ font-family: LEMONMILK-Regular;
 .homenav a:hover {
   background-color: gray;
 }
-}
-
