@@ -4,9 +4,13 @@ Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door
 
 ## Learning Log
 
+### 14 sept - Schooldag
+
+Ik moet ervoor zorgen, dat de website er beter uitziet in klein voormaat, aangezien hij nuer het beste uit ziet in groot formaat.
+
 ### 11 sept - Schooldag - feedback
 
-Learning Log bijwerken!
+Als feedback kreeg ik dat ik mijn Learning Log moet afmaken.
 
 ### 10 sept. - Thuis werken
 
@@ -17,15 +21,21 @@ Vandaag was ik bezig met de eerste opzet van mijn Digital Garden. Ik heb beslote
 Vandaag hadden we online les ivm OV staking.
 Ik ben vandaag erg vooruitgekomen met het brainstormen en bedenken van ideeen voor mijn Digital Garden. Het heeft mij erg geholpen om erg visueel te brainstormen en onderzoeken met kleur en sfeerwoorden etc. Ook hebben mijn gekozen posters mij geinspireerd op visueel vlak.
 
-Crazy 8 doen helpt mij ook altijd. Het is fijn om snel ideeen op paier te zetten als snelle schetsen.
+Crazy 8 doen helpt mij ook altijd. Het is fijn om snel ideeen op papier te zetten als snelle schetsen.
+
+### 8 sept. - Thuis werken
+
+Vandaag heb ik een HTML presentatie gemaakt over mijn onderwerp: konijnen. Dit was leuk en een tikje uitdagend. Ik heb de presentatie vrij minimalistisch gelaten, qua vormgeving, aangezien ik nog niet heel goed ben in coderen. Ik wel heel zorgvuldig foto's bij elkaar gezorgd en ze als collages in de presentatie gezet. Op die manier is het als een soort moodboards, die in een oogopslag een sfeer overbrengen.
+Ik heb ook de deepdive over dark mode gedaan. Dit was leuk en "satisfying" om te zien hoe de kleuren zo kunnen veranderen op basis van of welke instelling je aanklikt in je instellingen.
+
+### 7 sept. -
 
 ### 4 sept. - Schooldag
 
-Vandaag had ik weer deep dives:
+Vandaag had ik weer deep dives: HTML & CSS Basics en Praktische CSS.
 
-### 3 sept - [Workshop]
-
-[...]
+HTML & CSS Basics:
+Ik heb veel geleerd van deze deep dive.
 
 ### 02 sept. - Schooldag
 
