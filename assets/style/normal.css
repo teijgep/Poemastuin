@@ -9,7 +9,7 @@ html {
 }
 
 @font-face {
-  font-family: LEMONMILK-Regular;
+  font-family: LEMONMILK;
   src: url("LEMONMILK-Regular.otf");
 }
 
@@ -20,13 +20,6 @@ body {
   text-align: left;
   padding-left: 50px;
   padding-right: 50px;
-}
-
-@media (prefers-color-scheme:) {
-  body {
-    background-color:#36040f;
-    color: white;
-}
 }
 
 .topnav {
@@ -46,12 +39,12 @@ h1 {
 }
 
 h2 {
-  font-family: LEMONMILK-Regular;
+  font-family: LEMONMILK;
   font-size: 30px;
 }
 
 p {
-  font-family: LEMONMILK-Regular;
+  font-family: LEMONMILK;
   font-size: 15px;
 }
 
@@ -63,7 +56,7 @@ p {
 			pink,
       plum
 		);
-  font-family: LEMONMILK-Regular;
+  font-family: LEMONMILK;
   color: #f2f2f2;
   text-align: center;
   padding: 14px 16px;
