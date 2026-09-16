@@ -25,16 +25,15 @@ font-size: 50px;
 }
 
 .bewegendetekst {
-position: relative;
-  animation: bewegen 3s linear infinite;
+  animation: bewegen 3s infinite alternate;
 }
 
 @keyframes bewegen {
-  0% {
+  from {
     margin-left: 0;
   }
 
-  100% {
+  to {
     margin-left: 500px;
   }
 }
