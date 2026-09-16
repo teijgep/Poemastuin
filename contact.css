@@ -10,7 +10,7 @@ html {
 body {
 font-family: LEMONMILK-Regular;
 font-size: 50px;
-
+text-align: center;
 }
 
 .homenav a {
@@ -26,45 +26,20 @@ font-size: 50px;
 }
 
 img {
-  height: 200px;
-  width: 200px;
+  height: 300px;
+  width: 450px;
 }
 
-.parent {
-   display:grid;
-   grid-template-columns:1fr 1fr 1fr;
-   gap:1em;
-   margin: auto;
-   text-align: center;
-}
-    
-.div4 {
-    grid-row-start: 2;
-}
+ul {
+  list-style: none;
+  display:grid;
+  gap:1em;
 
-.div5 {
-    grid-row-start: 2;
-}
+  @media (width > 28em) {
+    grid-template-columns:1fr 1fr;
+  }
 
-.div6 {
-    grid-row-start: 2;
-}
-
-.div7 {
-    grid-row-start: 3;
-}
-
-.div8 {
-    grid-row-start: 3;
-}
-
-.div9 {
-    grid-row-start: 3;
-}
-
-@media (max-width: 500px) {
-
-  .parent {
-    grid-template-columns: 1fr 1fr;
+  @media (width > 40em) {
+    grid-template-columns:1fr 1fr 1fr;
   }
 }
