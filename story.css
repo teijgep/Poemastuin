@@ -23,3 +23,18 @@ font-size: 50px;
 .homenav a:hover {
   background-color: gray;
 }
+
+.bewegendetekst {
+position: relative;
+  animation: bewegen 3s linear infinite;
+}
+
+@keyframes bewegen {
+  0% {
+    margin-left: 0;
+  }
+
+  100% {
+    margin-left: 500px;
+  }
+}

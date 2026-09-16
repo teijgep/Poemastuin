@@ -51,9 +51,48 @@ h2 {
   font-size: 30px;
 }
 
+h3 {
+  font-family: LEMONMILK;
+  font-size: 20px;
+}
+
 p {
   font-family: LEMONMILK;
-  font-size: 15px;
+  font-size: 20px;
+  padding: 20px;
+  border: 5px solid purple;
+  border-radius: 20px;
+  background-color: purple;
+}
+
+  .content {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 20px;
+
+    padding: 20px;
+    border: 5px solid purple;
+    border-width: 15px;
+    border-radius: 20px;
+    animation: rainbow 10s infinite;
+  }
+
+  @keyframes rainbow {
+    0% { border-color: white;
+    }
+    25% { border-color: purple;
+    }
+    50% {border-color: white;
+    }
+    75% {border-color: purple;
+    }
+    100% {border-color: white;
+    }
+  }
+
+  .content img {
+  width: 250px;
+  height: 250px;
 }
 
 .topnav a {

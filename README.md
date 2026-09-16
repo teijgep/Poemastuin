@@ -4,6 +4,16 @@ Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door
 
 ## Learning Log
 
+### 16 sept. - Schooldag
+
+Contrast: De sterkte van het verschil.
+Hierarchie: De belangrijkheid van de ordening van elementen.
+Symmetrie: Beide kanten zijn hetzelfde en in evenwicht.
+
+Je kan elementen/aspecten overal op het grid plaatsen (op elke lijn/in elk blok), maar je kan het wel alleen op de lijnen/in de blokken plaatsen.
+
+(Visuele) hierarchie, ik let nu bewuster op hoe ik alles plaats, qua grids en hoe ik alles plaats op basis van lees-"flow" en belangrijkhheid van de conten.
+
 ### 14 sept - Schooldag
 
 Ik moet ervoor zorgen, dat de website er beter uitziet in klein voormaat, aangezien hij nu er het beste uit ziet in groot formaat.
