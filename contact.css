@@ -11,6 +11,8 @@ body {
 font-family: LEMONMILK-Regular;
 font-size: 50px;
 
+}
+
 .homenav a {
   background-color: black;
   color: white;
@@ -26,7 +28,6 @@ font-size: 50px;
 img {
   height: 200px;
   width: 200px;
-}
 }
 
 .parent {
