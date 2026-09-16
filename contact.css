@@ -35,11 +35,11 @@ ul {
   display:grid;
   gap:1em;
 
-  @media (width > 28em) {
+  @media (width > 36em) {
     grid-template-columns:1fr 1fr;
   }
 
-  @media (width > 40em) {
+  @media (width > 50em) {
     grid-template-columns:1fr 1fr 1fr;
   }
 }
