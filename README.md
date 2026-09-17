@@ -63,6 +63,7 @@ Ik heb veel geleerd van deze deep dive.
 ### 02 sept. - Schooldag
 
 Vandaag had ik mijn eerste deepdives: typografie en MMD (etc.).
+![test](screenshot1.png)
 
 ### 31 aug - Kickoff
 
