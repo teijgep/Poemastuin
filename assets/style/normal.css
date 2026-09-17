@@ -108,7 +108,10 @@ p {
   }
 }
 
-
+html:has([value="dark-theme"]:checked) .konijn1,
+html:has([value="auto-theme"]:checked) .konijn1 {
+  filter: invert(1);
+}
 
   .content {
     display: grid;
