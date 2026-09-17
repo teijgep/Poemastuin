@@ -34,11 +34,15 @@ ul {
   list-style: none;
   display:grid;
   gap:1em;
+}
 
+ul {
   @media (width > 36em) {
     grid-template-columns:1fr 1fr;
   }
+}
 
+ul {
   @media (width > 50em) {
     grid-template-columns:1fr 1fr 1fr;
   }
