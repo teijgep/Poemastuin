@@ -33,12 +33,12 @@ img {
 ul {
   list-style: none;
   display: grid;
-  grid-template-columns: 1fr 1fr 1fr;
+  grid-template-columns: 1fr 1fr;
   gap: 1em;
 }
 
-@media (max-width: 600px) {
+@media (min-width: 60em) {
   ul {
-  grid-template-columns: 1fr 1fr;
+  grid-template-columns: 1fr 1fr 1fr;
   }
 }
