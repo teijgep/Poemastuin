@@ -26,9 +26,34 @@ text-align: center;
 }
 
 img {
-  width: 250px;
-  height: 250px;
+  width: 300px;
+  height: 300px;
 }
+
+img:hover {
+  transform: scale(1.2);
+  box-shadow: 10px 10px 20px black;
+}
+
+details {
+  position: relative;
+}
+
+summary {
+  list-style: none;
+  cursor: pointer;
+}
+
+
+.popover {
+  position: absolute;
+  background-color: #f5b5e0;
+  padding: 20px;
+  width: 250px;
+  box-shadow: 0 5px 15px gray;
+  border-radius: 10px;
+}
+
 
 ul {
   list-style: none;
