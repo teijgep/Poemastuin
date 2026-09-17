@@ -4,7 +4,6 @@ Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door
 
 ## Learning Log
 
-
 ### 23 sept. - Schooldag
 
 Human Consent Component
@@ -36,18 +35,11 @@ Op welke manier kan je instemming vragen? Doe desk-research en zoek tenminste 10
 Ik vind de beste ontwerpen, als je duidelijk meer keuzes hebt, dus verschillende knoppen en toggles om je Cookie-keuzes te personaliseren.
 Ook is het belangrijk dat er een optie is om een volledig gedetailleerde uitleg te krijgen over hoe de data van de gebruiker wordt verwerkt en gebruikt. De volledige uitleg hoeft naar mijn mening niet meteen volledig zichtbaar te zijn, maar kan bijv. onder een knop van "Meer uitleg" staan. DE korte uitleggende teskt (de korte versie) moet wel al meteen goed aangeven, waar de Cookies voor worden gebruikt en waar de data heen gaat.
 
-
-
-
-
-
-
-Denk na over een manier van werken die past binnen de layout van jouw digital garden? 
+Denk na over een manier van werken die past binnen de layout van jouw digital garden?
 
 Ik wil graag meerdere keuzes neerzetten met toggles, zodat de sfeer van mijn website licht blijft. Ook wil ik dat als pop up komt in de hoek en niet meteen de website onbruikbaar maakt (of bedekt met de Cookies pop up).
 
 ### 22 sept. - Naar school voor deepdive
-
 
 ### 21 sept. - Schooldag
 
@@ -65,8 +57,7 @@ Ik ga nu vaker handmatig Cookies afwijzen met de toggles na deze les.
 <img width="1388" height="504" alt="Screenshot 2026-09-18 at 10 29 52" src="https://github.com/user-attachments/assets/773c3f8a-fef0-4fac-b2d1-5fcffa29c23a" />
 Kleur van teksten light mode gefixt.
 
-
-------------------------------------------
+---
 
 Waarom geven de docenten deze opdracht?
 
@@ -78,15 +69,11 @@ Ik gebruik HTML en CSS
 
 Wat zijn de randvoorwaarden?
 
-
-
 Naast de gebruikte techniek zijn er eigenlijk altijd ook andere randvoorwaarden. Zorg er voor dat je die goed voor ogen hebt. Bijvoorbeeld: hoe veel tijd heb je? Wat is je kennis tot nu toe? Maar ook: is mijn ontwerp wel toegankelijk? voldoet het aan de privacy-wetgeving? En ook: is mijn ontwerp wel echt webby of maak ik een plaatje van een website?
 Waar gebruik je HTML/CSS voor?
 Wees je bewust van de mogelijkheden en de onmogelijkheden van HTML en CSS. HTML is om content te structureren en om interactie mogelijk te maken. CSS is om vorm te geven, om dingen te verduidelijken, en om interactie prettiger te maken.
 Wat kan er allemaal met CSS?
 Niemand weet wat er allemaal kan met CSS, er kan zoveel, steeds meer, en nog niet alles is ontdekt. Maar je kan wel een heel goed beeld krijgen van wat er allemaal ongeveer kan. Je kan op allerlei manieren dingen layouten, je kan eindeloze hoeveelheden visuele effecten toepassen, en je kan op talloze manieren dingen laten animeren. Je hoeft natuurlijk niet alles te kunnen, daar is dit blok veel te kort voor, maar het is wel lang genoeg om te zien wat er allemaal kan. Dan kan je kiezen wat je wil gaan leren, zowel tijdens het blok als daarna.
-
-
 
 ### 17 sept. - Thuis werken en propedeuse-uitreiking
 
@@ -96,6 +83,10 @@ Vandaag was ik voornamelijk bezig met mijn Digital Garden nog meer afmaken. Ik h
 <img width="1412" height="692" alt="Screenshot 2026-09-18 at 10 21 52" src="https://github.com/user-attachments/assets/a68d968a-7f79-4288-94c4-7cb032523671" />
 
 Ik had ook animatie toegevoegd aan het konijn (png) en die uiteindelijk zichtbaar gemaakt voor zowel light als dark mode door de zwarte kleur van de png te inverten bij dark mode.
+
+### 17 sept. - Thuis werken
+
+Vandaag was ik bezig met mijn Digital Garden. De light en dark mode was nog niet helemaal gelukt, dus daar ging ik o.a. vandaag mee aan de slag! Nu heb ik succesvol dark mode kunnen toevoegen en ervoor gezorgd dat de titel en de bewegende konijnen-png van kleur veranderen, als dark mode aan staat.
 
 ### 16 sept. - Schooldag
 
@@ -114,6 +105,10 @@ Je kan elementen/aspecten overal op het grid plaatsen (op elke lijn/in elk blok)
 
 (Visuele) hierarchie, ik let nu bewuster op hoe ik alles plaats, qua grids en hoe ik alles plaats op basis van lees-"flow" en belangrijkhheid van de content.
 
+### 15 sept. - Naar school
+
+Vandaag was ik naar school gegaan voor de deep dive, dat was erg leerzaam.
+Daarna was ik naar de minorenmarkt gegaan om nu alvast informatie te krijgen over de minoren, waaruit ik kan kiezen in de toekomst.
 
 ### 14 sept - Schooldag
 
@@ -141,7 +136,6 @@ Als feedback kreeg ik dat ik mijn Learning Log moet afmaken.
 <img width="1440" height="858" alt="Screenshot 2026-09-11 at 16 04 14" src="https://github.com/user-attachments/assets/67ff8530-0110-4d5a-9947-723a612367ff" />
 
 Experimenteren met topnavigatie (topnav). Ik heb gekozen voor de kalmere look, die meer in blend met de achtergrond. Het oogt wat rustiger en professioneler, maar heeft wel nog een speelse kleur net zoals de achtergrond en dus mijn gekozen kleurenpalet.
-
 
 ### 10 sept. - Thuis werken
 
@@ -171,7 +165,7 @@ Ik wil graag het LED-effect toepassen op bepaalde tekstjes in mijn Digital Garde
 Welke webby dingen heb je gezien die je ook wil gebruiken?
 Dat de achtergrond van kleur verandert, als je scrollt (gradient bijv., was wat ik had gezien).
 Welke eigen content zou je over het onderwerp kunnen schrijven? Wat is de toon, ​de context, het doel, wat zijn onderwerpen, wat is ‘het’ wat jou raakt!​
-Mijn onderwerp is konijnen, aangezien ik daar veel interesse in heb en al behoorlijk veel er over weet. De toon is informerend en entertainend.  Het doel is om mensen te vermaken, maar dat ze tegelijk ook nieuwe dingen/aspecten leren over konijnen!
+Mijn onderwerp is konijnen, aangezien ik daar veel interesse in heb en al behoorlijk veel er over weet. De toon is informerend en entertainend. Het doel is om mensen te vermaken, maar dat ze tegelijk ook nieuwe dingen/aspecten leren over konijnen!
 Maak je gebruik van content van een ander? Hoe denk je dat te doen? En mag dat eigenlijk wel? Hoe kan je die content zo aanpassen dat het echt een eigen verhaal wordt? Dat het echt jouw content wordt, op jouw eigen garden?
 Op welke manier is de content te ervaren, denk verder dan alleen in tekst en beeld (beleeft, voelt, ziet, hoort enz.)
 Er moet visueel veel te zien zijn → met animaties bijvoorbeeld.
@@ -182,7 +176,6 @@ Het is een aanpassende, interactieve, toegankelijke en leuke website met goede l
 
 Ik wil een Digital Garden, waar interactiviteit een grote rol speelt → je moet doorklikken om op volgende pagina’s te komen (op icoontjes/afbeeldingen/tekeningen/knoppen etc.).
 
-
 ### 4 sept. - Schooldag
 
 Vandaag had ik weer deep dives: HTML & CSS Basics en Praktische CSS.
@@ -191,7 +184,7 @@ HTML & CSS Basics:
 Ik heb veel geleerd van deze deep dive.
 Waarom Tim Bernes Lee het wereldwijde web had gemaakt: om wetenschappers bij CERN makkelijker met elkaar te laten communiceren en informatie te laten uitwisselen. Ook een refresher van de verschillende codes in HTML & CSS.
 
-Praktische CSS: 
+Praktische CSS:
 Bij deze deep dive kon ik actief mee typen met het coderen, dat Vasilis deed op het digibord. Dat was erg fijn en leerzaam, aaangezien je het beter onthoudt als je code uittypt. Ook dit was weer een refresher van de basis van CSS,
 
 ### 3 sept. Thuis werken
@@ -205,7 +198,6 @@ Moet je per se “em” gebruiken bij CSS?
 De mogelijkheden met <iframe>.
 Wat zijn de mogelijkheden, die je hebt met <iframe>s?
 
-
 ### 02 sept. - Schooldag
 
 Vandaag had ik mijn eerste deepdives: typografie en MMD (etc.).
@@ -213,7 +205,6 @@ Vandaag had ik mijn eerste deepdives: typografie en MMD (etc.).
 ![image alt](https://github.com/teijgep/Poemastuin/blob/785308368f6236ed1fd05d2f620657228ec8db55/Screenshot%202026-09-17%20at%2023.36.55.png)
 ![image alt](https://github.com/teijgep/Poemastuin/blob/00cd342a0fb0ed34e4e4ad0d90a51eef0f6b3c2d/Screenshot%202026-09-17%20at%2023.44.21.png)
 ![image alt](https://github.com/teijgep/Poemastuin/blob/00cd342a0fb0ed34e4e4ad0d90a51eef0f6b3c2d/Screenshot%202026-09-17%20at%2023.44.41.png)
-
 
 ### 31 aug. - Kickoff
 
