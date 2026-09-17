@@ -26,24 +26,19 @@ text-align: center;
 }
 
 img {
-  height: 400px;
-  width: 400px;
+  width: 250px;
+  height: 250px;
 }
 
 ul {
   list-style: none;
-  display:grid;
-  gap:1em;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  gap: 1em;
 }
 
-ul {
-  @media (width > 36em) {
-    grid-template-columns:1fr 1fr;
-  }
-}
-
-ul {
-  @media (width > 50em) {
-    grid-template-columns:1fr 1fr 1fr;
+@media (max-width: 600px) {
+  ul {
+  grid-template-columns: 1fr 1fr;
   }
 }
