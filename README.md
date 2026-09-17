@@ -65,6 +65,8 @@ Ik heb veel geleerd van deze deep dive.
 Vandaag had ik mijn eerste deepdives: typografie en MMD (etc.).
 
 ![image alt](https://github.com/teijgep/Poemastuin/blob/785308368f6236ed1fd05d2f620657228ec8db55/Screenshot%202026-09-17%20at%2023.36.55.png)
+![image alt](https://github.com/teijgep/Poemastuin/blob/00cd342a0fb0ed34e4e4ad0d90a51eef0f6b3c2d/Screenshot%202026-09-17%20at%2023.44.21.png)
+![image alt](https://github.com/teijgep/Poemastuin/blob/00cd342a0fb0ed34e4e4ad0d90a51eef0f6b3c2d/Screenshot%202026-09-17%20at%2023.44.41.png)
 
 
 ### 31 aug - Kickoff
