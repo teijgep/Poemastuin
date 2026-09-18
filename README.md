@@ -90,6 +90,18 @@ Waarom Tim Bernes Lee het wereldwijde web had gemaakt: om wetenschappers bij CER
 Praktische CSS: 
 Bij deze deep dive kon ik actief mee typen met het coderen, dat Vasilis deed op het digibord. Dat was erg fijn en leerzaam, aaangezien je het beter onthoudt als je code uittypt. Ook dit was weer een refresher van de basis van CSS,
 
+### 3 sept. Thuis werken
+
+Voorbereiding les morgen:
+
+Welk kleurensysteem kunnen we het best gebruiken?
+
+Moet je per se “em” gebruiken bij CSS?
+
+De mogelijkheden met <iframe>.
+Wat zijn de mogelijkheden, die je hebt met <iframe>s?
+
+
 ### 02 sept. - Schooldag
 
 Vandaag had ik mijn eerste deepdives: typografie en MMD (etc.).
