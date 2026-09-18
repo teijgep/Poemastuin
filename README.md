@@ -17,6 +17,8 @@ Vandaag was ik voornamelijk bezig met mijn Digital Garden nog meer afmaken. Ik h
 <img width="1412" height="692" alt="Screenshot 2026-09-18 at 10 21 43" src="https://github.com/user-attachments/assets/ec87ba26-0dac-42f2-8770-c7b2c6a7f586" />
 <img width="1412" height="692" alt="Screenshot 2026-09-18 at 10 21 52" src="https://github.com/user-attachments/assets/a68d968a-7f79-4288-94c4-7cb032523671" />
 
+Ik had ook animatie toegevoegd aan het konijn (png) en die uiteindelijk zichtbaar gemaakt voor zowel light als dark mode door de zwarte kleur van de png te inverten bij dark mode.
+
 ### 16 sept. - Schooldag
 
 Hier was ik bezig met grid toevoegen, aangezien Joy dat had gegeven als tip tijdens de les bij het schetsen van de mobile/one-column lay out(s).
