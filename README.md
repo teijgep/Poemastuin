@@ -4,6 +4,10 @@ Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door
 
 ## Learning Log
 
+### 17 sept. - Thuis werken en propedeuse-uitreiking
+
+Vandaag was ik voornamelijk bezig met mijn Digital Garden nog meer afmaken. Ik had dark en light mode eindelijk toegevoegd op een werkende manier. Verder had ik mijn propedeuse-uitreiking op school.
+
 ### 16 sept. - Schooldag
 
 Contrast: De sterkte van het verschil.
