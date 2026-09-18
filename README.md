@@ -201,8 +201,6 @@ Wat zijn de mogelijkheden, die je hebt met <iframe>s?
 ### 02 sept. - Schooldag
 
 Vandaag had ik mijn eerste deepdives: typografie en MMD (etc.).
-![screenshot1](screenshot1.png)
-![screenshot2](screenshot2.png)
 
 ### 31 aug. - Kickoff
 

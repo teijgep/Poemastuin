@@ -66,6 +66,18 @@ h1 {
   text-shadow: 2px 2px 5px #ff78d2;
 }
 
+html:has([value="light-theme"]:checked) p {
+  color: white;
+}
+
+html:has([value="light-theme"]:checked) h2 {
+  color: black;
+}
+
+html:has([value="light-theme"]:checked) h3 {
+  color: black;
+}
+
 html:has([value="auto-theme"]:checked) h1,
 html:has([value="dark-theme"]:checked) h1 {
   background: none;
