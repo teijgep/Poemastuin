@@ -39,6 +39,8 @@ Wel als ik de lijst van Webby woorden er bij houd.
 
 Als feedback kreeg ik dat ik mijn Learning Log moet afmaken.
 
+
+<img width="1010" height="565" alt="Screenshot 2026-09-18 at 10 09 18" src="https://github.com/user-attachments/assets/e0b98845-7ce1-4cf6-8e28-838f1f49daf0" />
 <img width="1440" height="858" alt="Screenshot 2026-09-11 at 16 04 14" src="https://github.com/user-attachments/assets/67ff8530-0110-4d5a-9947-723a612367ff" />
 
 
