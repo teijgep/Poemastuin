@@ -46,6 +46,11 @@ Ik ben vandaag erg vooruitgekomen met het brainstormen en bedenken van ideeen vo
 
 Crazy 8 doen helpt mij ook altijd. Het is fijn om snel ideeen op papier te zetten als snelle schetsen.
 
+![image alt](https://github.com/teijgep/Poemastuin/blob/244f00563e3b0bedf372e4d6b85657f43e1f4c42/Screenshot%202026-09-18%20at%2008.04.52.png)
+![image alt](https://github.com/teijgep/Poemastuin/blob/244f00563e3b0bedf372e4d6b85657f43e1f4c42/Screenshot%202026-09-18%20at%2008.04.39.png)
+![image alt](https://github.com/teijgep/Poemastuin/blob/244f00563e3b0bedf372e4d6b85657f43e1f4c42/Screenshot%202026-09-18%20at%2008.04.01.png)
+![image alt](https://github.com/teijgep/Poemastuin/blob/244f00563e3b0bedf372e4d6b85657f43e1f4c42/Screenshot%202026-09-18%20at%2008.04.19.png)
+
 ### 8 sept. - Thuis werken
 
 Vandaag heb ik een HTML presentatie gemaakt over mijn onderwerp: konijnen. Dit was leuk en een tikje uitdagend. Ik heb de presentatie vrij minimalistisch gelaten, qua vormgeving, aangezien ik nog niet heel goed ben in coderen. Ik wel heel zorgvuldig foto's bij elkaar gezorgd en ze als collages in de presentatie gezet. Op die manier is het als een soort moodboards, die in een oogopslag een sfeer overbrengen.
