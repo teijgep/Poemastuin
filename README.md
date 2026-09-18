@@ -4,7 +4,7 @@ Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door
 
 ## Learning Log
 
-### 18 sept- Schooldag
+### 18 sept. - Schooldag
 
 <img width="1388" height="504" alt="Screenshot 2026-09-18 at 10 29 52" src="https://github.com/user-attachments/assets/773c3f8a-fef0-4fac-b2d1-5fcffa29c23a" />
 Kleur van teksten light mode gefixt.
@@ -137,7 +137,7 @@ Vandaag had ik mijn eerste deepdives: typografie en MMD (etc.).
 ![image alt](https://github.com/teijgep/Poemastuin/blob/00cd342a0fb0ed34e4e4ad0d90a51eef0f6b3c2d/Screenshot%202026-09-17%20at%2023.44.41.png)
 
 
-### 31 aug - Kickoff
+### 31 aug. - Kickoff
 
 Een fork van de model repository gemaakt en gepubliceerd via mijn eigen Github omgeving.
 
