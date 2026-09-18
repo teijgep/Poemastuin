@@ -39,6 +39,10 @@ Wel als ik de lijst van Webby woorden er bij houd.
 
 Als feedback kreeg ik dat ik mijn Learning Log moet afmaken.
 
+<img width="1440" height="900" alt="Screenshot 2026-09-11 at 09 42 32" src="https://github.com/user-attachments/assets/1698b6ed-1e37-46db-b2ee-c4b90c58269e" />
+<img width="1440" height="858" alt="Screenshot 2026-09-11 at 16 04 14" src="https://github.com/user-attachments/assets/67ff8530-0110-4d5a-9947-723a612367ff" />
+
+
 ### 10 sept. - Thuis werken
 
 Vandaag was ik bezig met de eerste opzet van mijn Digital Garden. Ik heb besloten om te kiezen voor een wesbite lay out, waar er bovenaan een keuzemenu staat, die je naar verschillende webpagina's kan brengen.
