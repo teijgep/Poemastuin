@@ -16,6 +16,10 @@ Vandaag was ik voornamelijk bezig met mijn Digital Garden nog meer afmaken. Ik h
 Hier was ik bezig met grid toevoegen, aangezien Joy dat had gegeven als tip tijdens de les bij het schetsen van de mobile/one-column lay out(s).
 <img width="1440" height="858" alt="Screenshot 2026-09-16 at 11 28 59" src="https://github.com/user-attachments/assets/27152469-8627-4ec1-8629-f9aa6686c00b" />
 
+<img width="1388" height="504" alt="Screenshot 2026-09-18 at 10 27 33" src="https://github.com/user-attachments/assets/b7b88d4c-eeae-4a9e-a244-1b468ff586ce" />
+<img width="1388" height="504" alt="Screenshot 2026-09-18 at 10 27 41" src="https://github.com/user-attachments/assets/58cc9e81-17e5-4703-a30d-bf0ba196487a" />
+Hier had ik een animatie toegevoegd aan de border, die de website meer "webby" maakt.
+
 Contrast: De sterkte van het verschil.
 Hierarchie: De belangrijkheid van de ordening van elementen.
 Symmetrie: Beide kanten zijn hetzelfde en in evenwicht.
