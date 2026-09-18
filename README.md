@@ -10,6 +10,9 @@ Vandaag was ik voornamelijk bezig met mijn Digital Garden nog meer afmaken. Ik h
 
 ### 16 sept. - Schooldag
 
+Hier was ik bezig met grid toevoegen, aangezien Joy dat had gegeven als tip tijdens de les bij het schetsen van de mobile/one-column lay out(s).
+<img width="1440" height="858" alt="Screenshot 2026-09-16 at 11 28 59" src="https://github.com/user-attachments/assets/27152469-8627-4ec1-8629-f9aa6686c00b" />
+
 Contrast: De sterkte van het verschil.
 Hierarchie: De belangrijkheid van de ordening van elementen.
 Symmetrie: Beide kanten zijn hetzelfde en in evenwicht.
@@ -17,8 +20,6 @@ Symmetrie: Beide kanten zijn hetzelfde en in evenwicht.
 Je kan elementen/aspecten overal op het grid plaatsen (op elke lijn/in elk blok), maar je kan het wel alleen op de lijnen/in de blokken plaatsen.
 
 (Visuele) hierarchie, ik let nu bewuster op hoe ik alles plaats, qua grids en hoe ik alles plaats op basis van lees-"flow" en belangrijkhheid van de content.
-
-<img width="1440" height="858" alt="Screenshot 2026-09-16 at 11 28 59" src="https://github.com/user-attachments/assets/27152469-8627-4ec1-8629-f9aa6686c00b" />
 
 
 ### 14 sept - Schooldag
