@@ -60,7 +60,24 @@ Crazy 8 doen helpt mij ook altijd. Het is fijn om snel ideeen op papier te zette
 Vandaag heb ik een HTML presentatie gemaakt over mijn onderwerp: konijnen. Dit was leuk en een tikje uitdagend. Ik heb de presentatie vrij minimalistisch gelaten, qua vormgeving, aangezien ik nog niet heel goed ben in coderen. Ik wel heel zorgvuldig foto's bij elkaar gezorgd en ze als collages in de presentatie gezet. Op die manier is het als een soort moodboards, die in een oogopslag een sfeer overbrengen.
 Ik heb ook de deepdive over dark mode gedaan. Dit was leuk en "satisfying" om te zien hoe de kleuren zo kunnen veranderen op basis van of welke instelling je aanklikt in je instellingen.
 
-### 7 sept. -
+### 7 sept. - Schooldag
+
+Vanuit de inventarisatie: Wat zou je zelf willen maken? Heb je dingen gezien die je nog niet kan, maar wel interessant vindt in de websites die je bekeken hebt?
+Ik wil graag het LED-effect toepassen op bepaalde tekstjes in mijn Digital Garden. Ik wil ook geanimeerde gifs kunnen maken en toevoegen.
+Welke webby dingen heb je gezien die je ook wil gebruiken?
+Dat de achtergrond van kleur verandert, als je scrollt (gradient bijv., was wat ik had gezien).
+Welke eigen content zou je over het onderwerp kunnen schrijven? Wat is de toon, ​de context, het doel, wat zijn onderwerpen, wat is ‘het’ wat jou raakt!​
+Mijn onderwerp is konijnen, aangezien ik daar veel interesse in heb en al behoorlijk veel er over weet. De toon is informerend en entertainend.  Het doel is om mensen te vermaken, maar dat ze tegelijk ook nieuwe dingen/aspecten leren over konijnen!
+Maak je gebruik van content van een ander? Hoe denk je dat te doen? En mag dat eigenlijk wel? Hoe kan je die content zo aanpassen dat het echt een eigen verhaal wordt? Dat het echt jouw content wordt, op jouw eigen garden?
+Op welke manier is de content te ervaren, denk verder dan alleen in tekst en beeld (beleeft, voelt, ziet, hoort enz.)
+Er moet visueel veel te zien zijn → met animaties bijvoorbeeld.
+
+Een Digital Garden is een persoonlijk hoekje op het internet, waar je je eigen content kan bepalen en het publiek is jezelf.
+
+Het is een aanpassende, interactieve, toegankelijke en leuke website met goede leesbaarheid en expressie dmv animaties.
+
+Ik wil een Digital Garden, waar interactiviteit een grote rol speelt → je moet doorklikken om op volgende pagina’s te komen (op icoontjes/afbeeldingen/tekeningen/knoppen etc.).
+
 
 ### 4 sept. - Schooldag
 
