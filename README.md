@@ -4,6 +4,12 @@ Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door
 
 ## Learning Log
 
+### 18 sept- Schooldag
+
+<img width="1388" height="504" alt="Screenshot 2026-09-18 at 10 29 52" src="https://github.com/user-attachments/assets/773c3f8a-fef0-4fac-b2d1-5fcffa29c23a" />
+Kleur van teksten light mode gefixt.
+
+
 ### 17 sept. - Thuis werken en propedeuse-uitreiking
 
 Vandaag was ik voornamelijk bezig met mijn Digital Garden nog meer afmaken. Ik had dark en light mode eindelijk toegevoegd op een werkende manier. Verder had ik mijn propedeuse-uitreiking op school.
