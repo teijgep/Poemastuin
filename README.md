@@ -10,6 +10,28 @@ Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door
 Kleur van teksten light mode gefixt.
 
 
+------------------------------------------
+
+Waarom geven de docenten deze opdracht?
+
+Om te leren over de content, dus in dit geval coderen.
+
+Welke technieken gebruik ik?
+
+Ik gebruik HTML en CSS
+
+Wat zijn de randvoorwaarden?
+
+
+
+Naast de gebruikte techniek zijn er eigenlijk altijd ook andere randvoorwaarden. Zorg er voor dat je die goed voor ogen hebt. Bijvoorbeeld: hoe veel tijd heb je? Wat is je kennis tot nu toe? Maar ook: is mijn ontwerp wel toegankelijk? voldoet het aan de privacy-wetgeving? En ook: is mijn ontwerp wel echt webby of maak ik een plaatje van een website?
+Waar gebruik je HTML/CSS voor?
+Wees je bewust van de mogelijkheden en de onmogelijkheden van HTML en CSS. HTML is om content te structureren en om interactie mogelijk te maken. CSS is om vorm te geven, om dingen te verduidelijken, en om interactie prettiger te maken.
+Wat kan er allemaal met CSS?
+Niemand weet wat er allemaal kan met CSS, er kan zoveel, steeds meer, en nog niet alles is ontdekt. Maar je kan wel een heel goed beeld krijgen van wat er allemaal ongeveer kan. Je kan op allerlei manieren dingen layouten, je kan eindeloze hoeveelheden visuele effecten toepassen, en je kan op talloze manieren dingen laten animeren. Je hoeft natuurlijk niet alles te kunnen, daar is dit blok veel te kort voor, maar het is wel lang genoeg om te zien wat er allemaal kan. Dan kan je kiezen wat je wil gaan leren, zowel tijdens het blok als daarna.
+
+
+
 ### 17 sept. - Thuis werken en propedeuse-uitreiking
 
 Vandaag was ik voornamelijk bezig met mijn Digital Garden nog meer afmaken. Ik had dark en light mode eindelijk toegevoegd op een werkende manier. Verder had ik mijn propedeuse-uitreiking op school.
