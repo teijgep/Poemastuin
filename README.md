@@ -59,6 +59,10 @@ Vandaag had ik weer deep dives: HTML & CSS Basics en Praktische CSS.
 
 HTML & CSS Basics:
 Ik heb veel geleerd van deze deep dive.
+Waarom Tim Bernes Lee het wereldwijde web had gemaakt: om wetenschappers bij CERN makkelijker met elkaar te laten communiceren en informatie te laten uitwisselen. Ook een refresher van de verschillende codes in HTML & CSS.
+
+Praktische CSS: 
+Bij deze deep dive kon ik actief mee typen met het coderen, dat Vasilis deed op het digibord. Dat was erg fijn en leerzaam, aaangezien je het beter onthoudt als je code uittypt. Ook dit was weer een refresher van de basis van CSS,
 
 ### 02 sept. - Schooldag
 
