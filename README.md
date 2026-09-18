@@ -1,4 +1,3 @@
-<img width="1440" height="858" alt="Screenshot 2026-09-16 at 11 28 59" src="https://github.com/user-attachments/assets/4700f4ee-bc55-41b9-a006-3e7cc3f87ba4" />
 # Model
 
 Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door studenten worden gemaakt.
