@@ -10,11 +10,9 @@ Wat zijn HTML landmark role elements?
 Dat zijn speciale elements, die tussen <> staan, die allemaal nog een aparte functie hebben (of niet).
 
 Wat zijn heading elementen en hoe horen deze 'genest' te worden?
-
 Dat zijn alle titel groottes en die kan je nesten door bijv. het ene html element in het andere te zetten.
 
 Hoe ga jij met cookies om? Beschrijf jouw beweegredenen en of die zijn veranderd na het volgen van dit college.
-
 Ik ga nu vaker handmatig Cookies afwijzen met de toggles na deze les.
 
 ### 18 sept. - Schooldag
