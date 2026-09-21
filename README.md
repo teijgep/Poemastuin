@@ -4,6 +4,19 @@ Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door
 
 ## Learning Log
 
+### 21 sept. - Schooldag
+
+Wat zijn HTML landmark role elements?
+Dat zijn speciale elements, die tussen <> staan, die allemaal nog een aparte functie hebben (of niet).
+
+Wat zijn heading elementen en hoe horen deze 'genest' te worden?
+
+Dat zijn alle titel groottes en die kan je nesten door bijv. het ene html element in het andere te zetten.
+
+Hoe ga jij met cookies om? Beschrijf jouw beweegredenen en of die zijn veranderd na het volgen van dit college.
+
+Ik ga nu vaker handmatig Cookies afwijzen met de toggles na deze les.
+
 ### 18 sept. - Schooldag
 
 <img width="1388" height="504" alt="Screenshot 2026-09-18 at 10 29 52" src="https://github.com/user-attachments/assets/773c3f8a-fef0-4fac-b2d1-5fcffa29c23a" />
