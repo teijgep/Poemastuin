@@ -7,7 +7,6 @@ Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door
 ### 22 sept. - Naar school voor deepdive
 
 
-
 ### 21 sept. - Schooldag
 
 Wat zijn HTML landmark role elements?
