@@ -4,6 +4,11 @@ Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door
 
 ## Learning Log
 
+### 22 sept. - Naar school voor deepdive
+
+<img width="1388" height="504" alt="Screenshot 2026-09-18 at 10 29 52" src="https://github.com/user-attachments/assets/14d90a57-26e6-4670-9ed1-7a8e4039f3d9" />
+
+
 ### 21 sept. - Schooldag
 
 Wat zijn HTML landmark role elements?
