@@ -4,6 +4,30 @@ Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door
 
 ## Learning Log
 
+
+### 23 sept. - Schooldag
+
+Human Consent Component
+Opdracht:
+
+Bespreek in jouw groepje welke gegevens op jouw digital garden van gebruikers verwerkt worden. Houdt daarbij in de gaten welke diensten je allemaal gebruikt. Zelfs als je alles zelf geschreven hebt zijn dat er al twee: GitHub pages hosting én het digitaaltuintje component.
+
+Deze twee gebruik ik:
+-GitHub pages hosting
+-het digitaaltuintje component
+
+Informeren van gebruikers is een plicht die je hebt als websitemaker: Hoe kan je gebruikers informeren over het gebruik van hun gegevens op jouw website?
+
+Door een duidelijke tekst te schrijven over waarom de informatie wordt verzameld, hoe het wordt gebruikt en waar het allemaal naar toe gaat.
+
+Op welke manier kan je instemming vragen? Doe desk-research en zoek tenminste 10 verschillende manieren van het vragen van consent op het web.
+
+
+
+Denk na over een manier van werken die past binnen de layout van jouw digital garden? 
+
+Ik wil graag meerdere keuzes neerzetten met toggles, zodat de sfeer van mijn website licht blijft. Ook wil ik dat als pop up komt in de hoek en niet meteen de website onbruikbaar maakt (of bedekt met de Cookies pop up).
+
 ### 22 sept. - Naar school voor deepdive
 
 
