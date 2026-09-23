@@ -39,6 +39,10 @@ Denk na over een manier van werken die past binnen de layout van jouw digital ga
 
 Ik wil graag meerdere keuzes neerzetten met toggles, zodat de sfeer van mijn website licht blijft. Ook wil ik dat als pop up komt in de hoek en niet meteen de website onbruikbaar maakt (of bedekt met de Cookies pop up).
 
+Deepdive Javascript:
+
+<img width="1440" height="809" alt="Screenshot 2026-09-23 at 14 44 57" src="https://github.com/user-attachments/assets/db3eca62-e915-4af7-a711-fc89af0f27b4" />
+
 ### 22 sept. - Naar school voor deepdive
 
 ### 21 sept. - Schooldag
