@@ -28,6 +28,9 @@ Op welke manier kan je instemming vragen? Doe desk-research en zoek tenminste 10
 
 <img width="1440" height="857" alt="Screenshot 2026-09-23 at 12 38 02" src="https://github.com/user-attachments/assets/1c1f40ab-f874-4eb1-a319-e0629a704800" />
 
+<img width="1440" height="857" alt="Screenshot 2026-09-23 at 12 40 00" src="https://github.com/user-attachments/assets/8043ca80-e6ea-4ebb-95ee-0a532cf3045a" />
+
+
 
 
 
