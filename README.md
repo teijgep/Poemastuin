@@ -24,6 +24,9 @@ Op welke manier kan je instemming vragen? Doe desk-research en zoek tenminste 10
 
 <img width="1440" height="809" alt="Screenshot 2026-09-23 at 12 29 50" src="https://github.com/user-attachments/assets/cb6b648e-120a-4028-9b9c-3ff98e124ae9" />
 
+<img width="1440" height="857" alt="Screenshot 2026-09-23 at 12 33 44" src="https://github.com/user-attachments/assets/7c8a7cc2-ba5c-4eba-a9d2-37052d9f70f1" />
+
+
 
 Denk na over een manier van werken die past binnen de layout van jouw digital garden? 
 
