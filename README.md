@@ -30,6 +30,12 @@ Op welke manier kan je instemming vragen? Doe desk-research en zoek tenminste 10
 
 <img width="1440" height="857" alt="Screenshot 2026-09-23 at 12 40 00" src="https://github.com/user-attachments/assets/8043ca80-e6ea-4ebb-95ee-0a532cf3045a" />
 
+<img width="1440" height="857" alt="Screenshot 2026-09-23 at 12 42 56" src="https://github.com/user-attachments/assets/1e479312-9beb-4ffa-9d8c-ccb5f8cb504f" />
+<img width="1440" height="857" alt="Screenshot 2026-09-23 at 12 42 19" src="https://github.com/user-attachments/assets/89fc955e-e70c-48d6-b0ee-9cdda1047254" />
+<img width="1440" height="857" alt="Screenshot 2026-09-23 at 12 41 58" src="https://github.com/user-attachments/assets/19bd533e-f15b-4e1b-9bd4-f10a2f9d8d05" />
+<img width="1440" height="857" alt="Screenshot 2026-09-23 at 12 41 43" src="https://github.com/user-attachments/assets/a2f27624-61dd-4fd9-8619-69bafb4d65cd" />
+
+
 
 
 
