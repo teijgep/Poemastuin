@@ -22,6 +22,7 @@ Door een duidelijke tekst te schrijven over waarom de informatie wordt verzameld
 
 Op welke manier kan je instemming vragen? Doe desk-research en zoek tenminste 10 verschillende manieren van het vragen van consent op het web.
 
+<img width="1440" height="809" alt="Screenshot 2026-09-23 at 12 29 50" src="https://github.com/user-attachments/assets/cb6b648e-120a-4028-9b9c-3ff98e124ae9" />
 
 
 Denk na over een manier van werken die past binnen de layout van jouw digital garden? 
