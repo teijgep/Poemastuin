@@ -8,6 +8,9 @@ Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door
 
 Vandaag ben ik bezig met de HTML website (te) valideren.
 
+<img width="1440" height="809" alt="Screenshot 2026-09-25 at 09 30 39" src="https://github.com/user-attachments/assets/68b5ac98-843c-4d83-9fbb-1291f3256a98" />
+Dit zijn mijn HTML errors.
+
 ### 23 sept. - Schooldag
 
 Human Consent Component
