@@ -84,18 +84,18 @@ html:has([value="dark-theme"]:checked) h1 {
 }
 
 h2 {
-  font-family: Rounded;
-  font-size: 35px;
+  font-family: Bubblegum;
+  font-size: 50px;
 }
 
 h3 {
   font-family: Rounded;
-  font-size: 30px;
+  font-size: 40px;
 }
 
 p {
   font-family: Rounded;
-  font-size: px;
+  font-size: 40px;
   padding: 20px;
   border: 5px solid purple;
   border-radius: 20px;
