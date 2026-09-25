@@ -14,6 +14,10 @@ Dit zijn mijn HTML errors.
 Eindeweeksgesprek aantekeningen:
 -schetsen vastleggen
 
+Vorige week had ik een beetje frustratie, aangezien mijn website niet goed syncte. Ik had hulp gevraagd aan Justus en hij heeft mij kunnen helpen. Dat was erg fijn.
+
+
+
 ### 23 sept. - Schooldag
 
 Human Consent Component
