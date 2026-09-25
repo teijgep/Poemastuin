@@ -43,6 +43,8 @@ Ik vind de beste ontwerpen, als je duidelijk meer keuzes hebt, dus verschillende
 Ook is het belangrijk dat er een optie is om een volledig gedetailleerde uitleg te krijgen over hoe de data van de gebruiker wordt verwerkt en gebruikt. De volledige uitleg hoeft naar mijn mening niet meteen volledig zichtbaar te zijn, maar kan bijv. onder een knop van "Meer uitleg" staan. DE korte uitleggende teskt (de korte versie) moet wel al meteen goed aangeven, waar de Cookies voor worden gebruikt en waar de data heen gaat.
 
 
+<img width="934" height="691" alt="Screenshot 2026-09-25 at 09 48 18" src="https://github.com/user-attachments/assets/557be37d-fded-4a96-a732-dcd41c1c66c2" />
+
 
 
 Denk na over een manier van werken die past binnen de layout van jouw digital garden?
