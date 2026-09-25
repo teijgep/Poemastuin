@@ -45,6 +45,9 @@ Deepdive Javascript:
 
 ### 22 sept. - Naar school voor deepdive
 
+<img width="1440" height="809" alt="Screenshot 2026-09-22 at 15 05 06" src="https://github.com/user-attachments/assets/f3c13220-af2c-44fc-9591-e1c1d17ab9f9" />
+
+
 ### 21 sept. - Schooldag
 
 Wat zijn HTML landmark role elements?
