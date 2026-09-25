@@ -4,6 +4,10 @@ Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door
 
 ## Learning Log
 
+### 25 sept. - Schooldag
+
+Vandaag ben ik bezig met de HTML website (te) valideren.
+
 ### 23 sept. - Schooldag
 
 Human Consent Component
