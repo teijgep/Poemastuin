@@ -183,5 +183,6 @@ html:has([value="auto-theme"]:checked) .konijn1 {
 img {
   height: 50px;
   width: 50px;
+  border-radius: 40px;
 }
 
