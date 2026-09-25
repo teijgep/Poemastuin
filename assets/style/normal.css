@@ -21,16 +21,14 @@ html:has([value="dark-theme"]:checked) {
 	color-scheme:dark;
 }
 
-
-
 @font-face {
   font-family: Bubblegum;
   src: url("Bubblegum.ttf");
 }
 
 @font-face {
-  font-family: LEMONMILK;
-  src: url("LEMONMILK-Regular.otf");
+  font-family: Rounded;
+  src: url("Rounded\ Elegance\ Regular.otf");
 }
 
 body {
@@ -47,6 +45,7 @@ body {
   gap: 20px;
   padding: 20px;
   justify-content: center;
+  align-items: center;
 }
 
 @media (max-width: 1080px) {
@@ -85,18 +84,18 @@ html:has([value="dark-theme"]:checked) h1 {
 }
 
 h2 {
-  font-family: LEMONMILK;
-  font-size: 30px;
+  font-family: Rounded;
+  font-size: 35px;
 }
 
 h3 {
-  font-family: LEMONMILK;
-  font-size: 20px;
+  font-family: Rounded;
+  font-size: 30px;
 }
 
 p {
-  font-family: LEMONMILK;
-  font-size: 20px;
+  font-family: Rounded;
+  font-size: 30px;
   padding: 20px;
   border: 5px solid purple;
   border-radius: 20px;
@@ -162,7 +161,7 @@ html:has([value="auto-theme"]:checked) .konijn1 {
 			pink,
       plum
 		);
-  font-family: LEMONMILK;
+  font-family: Rounded;
   color: #f2f2f2;
   text-align: center;
   padding: 14px 16px;
