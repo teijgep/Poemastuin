@@ -95,7 +95,7 @@ h3 {
 
 p {
   font-family: Rounded;
-  font-size: 30px;
+  font-size: px;
   padding: 20px;
   border: 5px solid purple;
   border-radius: 20px;
@@ -104,7 +104,7 @@ p {
 
   .konijn1 {
     width: 200px;
-  animation: bewegen 6.5s infinite alternate;
+    animation: bewegen 6.5s infinite alternate;
 }
 
 @keyframes bewegen {
@@ -150,8 +150,8 @@ html:has([value="auto-theme"]:checked) .konijn1 {
   }
 
   .content img {
-  width: 250px;
-  height: 250px;
+  width: 325px;
+  height: 325px;
 }
 
 .topnav a {
@@ -159,13 +159,13 @@ html:has([value="auto-theme"]:checked) .konijn1 {
   background-image:
   	radial-gradient(
 			pink,
-      plum
+      #cb8aeb
 		);
-  font-family: Rounded;
-  color: #f2f2f2;
+  color: white;
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
+  font-family: Bubblegum;
   font-size: 17px;
 }
 
