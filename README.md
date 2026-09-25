@@ -11,6 +11,10 @@ Vandaag ben ik bezig met de HTML website (te) valideren.
 <img width="1440" height="809" alt="Screenshot 2026-09-25 at 09 30 39" src="https://github.com/user-attachments/assets/68b5ac98-843c-4d83-9fbb-1291f3256a98" />
 Dit zijn mijn HTML errors.
 
+<img width="1440" height="272" alt="Screenshot 2026-09-25 at 10 15 02" src="https://github.com/user-attachments/assets/07651834-899f-455e-894c-ea7d7e43e265" />
+Na het oplossen van error nummer 1, had ik daarna nog maar 2 errors over.
+
+
 Eindeweeksgesprek aantekeningen:
 -schetsen vastleggen
 
