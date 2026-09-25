@@ -42,6 +42,9 @@ Op welke manier kan je instemming vragen? Doe desk-research en zoek tenminste 10
 Ik vind de beste ontwerpen, als je duidelijk meer keuzes hebt, dus verschillende knoppen en toggles om je Cookie-keuzes te personaliseren.
 Ook is het belangrijk dat er een optie is om een volledig gedetailleerde uitleg te krijgen over hoe de data van de gebruiker wordt verwerkt en gebruikt. De volledige uitleg hoeft naar mijn mening niet meteen volledig zichtbaar te zijn, maar kan bijv. onder een knop van "Meer uitleg" staan. DE korte uitleggende teskt (de korte versie) moet wel al meteen goed aangeven, waar de Cookies voor worden gebruikt en waar de data heen gaat.
 
+
+
+
 Denk na over een manier van werken die past binnen de layout van jouw digital garden?
 
 Ik wil graag meerdere keuzes neerzetten met toggles, zodat de sfeer van mijn website licht blijft. Ook wil ik dat als pop up komt in de hoek en niet meteen de website onbruikbaar maakt (of bedekt met de Cookies pop up).
