@@ -19,7 +19,17 @@ Eindeweeksgesprek aantekeningen:
 
 Vorige week had ik een beetje frustratie, aangezien mijn website niet goed syncte. Ik had hulp gevraagd aan Justus en hij heeft mij kunnen helpen. Dat was erg fijn.
 
+Wat is HTML validatie, waarom is het belangrijk en hoe heb je dat vandaag uitgevoerd?
 
+HTML validatie is of de code goed in elkaar zit en dat is belangrijk, zodat de code een goede structuur heeft en goed runt. Ik heb vandaag 5 errors opgespoord met de gegeven website en de 5 errors ook opgelost.
+
+Welke dingen vielen je op?
+
+Ik had errors, die ik niet door had eerst en die had ik opgelost.
+
+Welke feedback heb je ontvangen tijdens het gesprek met je docenten?
+
+Dat ik verder moet schetsen.
 
 ### 23 sept. - Schooldag
 
