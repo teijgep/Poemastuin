@@ -4,6 +4,19 @@ Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door
 
 ## Learning Log
 
+### 29 sept. - Thuis werken
+
+Vandaag was ik nog steeds ziek, maar beter aan het worden door de dag heen, dus besloot ik om wat schoolwerk in te halen van maandag, want ik was toen ziek.
+
+Wat bedoelt Vasilis met de uitspraak: Semantiek doet mij niet zo veel, ik ben liever bezig met de UX van HTML?
+Semantiek in deze context houdt in een juiste codering. Vasilis houdt zich meer bezig met of een website goed bruikbaar is. Vb: Werken alle knoppen goed? Kan je goed een screenreader gebruiken op de website?
+
+Wat voor type beperkingen hebben invloed op het gebruiken van websites?
+Neurodiversiteit (dyslexie, epilepsie etc.) , spierproblemen, oog- en gehoorproblemen.
+
+Noem drie manieren om door een website te navigeren met jouw screenreader.
+Met de tab-toets, via koppen (headings) en met links.
+
 ### 25 sept. - Schooldag
 
 Vandaag ben ik bezig met de HTML website (te) valideren.
