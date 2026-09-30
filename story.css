@@ -9,7 +9,10 @@ html {
 
 body {
 font-family: LEMONMILK-Regular;
-font-size: 50px;
+}
+
+p {
+  font-size: 20px;
 }
 
 .homenav a {
@@ -22,18 +25,4 @@ font-size: 50px;
 
 .homenav a:hover {
   background-color: gray;
-}
-
-.bewegendetekst {
-  animation: bewegen 3s infinite alternate;
-}
-
-@keyframes bewegen {
-  from {
-    margin-left: 0;
-  }
-
-  to {
-    margin-left: 500px;
-  }
 }
