@@ -40,6 +40,14 @@ Is er een skip to content link?
 
 3. WCAG checklist
 
+::selection contrast verbeteren:
+<img width="1440" height="810" alt="Scherm­afbeelding 2026-09-30 om 11 14 56" src="https://github.com/user-attachments/assets/7d7446f3-10c8-4cc7-b760-4b4c0553dbe7" />
+
+<img width="1440" height="810" alt="Scherm­afbeelding 2026-09-30 om 11 51 32" src="https://github.com/user-attachments/assets/fa4568d4-f692-411c-8780-c4e3eb5ddd68" />
+
+<img width="1440" height="810" alt="Scherm­afbeelding 2026-09-30 om 11 51 39" src="https://github.com/user-attachments/assets/9f6a704f-1eda-4fa4-925b-71d44666ffcf" />
+
+
 ### 29 sept. - Thuis werken
 
 Vandaag was ik nog steeds ziek, maar beter aan het worden door de dag heen, dus besloot ik om wat schoolwerk in te halen van maandag, want ik was toen ziek.
