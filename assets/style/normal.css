@@ -119,6 +119,12 @@ p {
   }
 }
 
+  @media (prefers-reduced-motion: reduce) {
+  .bewegen {
+    animation: none;
+  }
+}
+
 html:has([value="dark-theme"]:checked) .konijn1,
 html:has([value="auto-theme"]:checked) .konijn1 {
   filter: invert(1);
