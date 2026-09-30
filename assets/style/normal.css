@@ -155,6 +155,12 @@ html:has([value="auto-theme"]:checked) .konijn1 {
     }
   }
 
+    @media (prefers-reduced-motion: reduce) {
+  .bewegen {
+    animation: none;
+  }
+}
+
   .content img {
   width: 325px;
   height: 325px;
