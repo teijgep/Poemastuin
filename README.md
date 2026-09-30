@@ -50,6 +50,16 @@ na:
 
 <img width="1440" height="810" alt="Scherm­afbeelding 2026-09-30 om 11 51 39" src="https://github.com/user-attachments/assets/9f6a704f-1eda-4fa4-925b-71d44666ffcf" />
 
+Cookies knop vormgeven:
+
+Kijken of ik een foto als knop kan laten dienen.
+
+
+<img width="1440" height="810" alt="Scherm­afbeelding 2026-09-30 om 12 13 47" src="https://github.com/user-attachments/assets/810083af-f673-4ebd-bb5b-60400c4d7169" />
+
+
+Succesvol.
+
 
 ### 29 sept. - Thuis werken
 
