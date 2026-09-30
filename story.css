@@ -51,5 +51,6 @@ p {
 }
 
 .active {
+  font-family: Rounded;
   border-radius: 20px;
 }
