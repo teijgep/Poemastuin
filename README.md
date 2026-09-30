@@ -4,6 +4,30 @@ Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door
 
 ## Learning Log
 
+### 30 sept. - Schooldag
+
+Website testen:
+
+1. Screenreader
+Headings 
+Is de structuur logisch?
+De screenreader kan goed de topnav uitspreken, maar op de homepage kan ik nog niet goed door de kopjes heen tabben of de screenreader geheel goed toepassen.
+Op de "Soorten konijnen" pagina valt het tabben en de screenreader goed te gebruiken. Ik heb de afbeeldingen omschreven in de alt-teksten.
+Geeft elk kopje goed aan wat er onder het kopje valt?
+Ik moet de kopjes dus nog verder uitwerken en de website technisch verbeteren, qua kopjes.
+
+Interactie elementen  
+link, button, dialog, details/summary, inputs… 
+Zijn ze opgenomen in de overzichten met interactie elementen?
+Redelijk duidelijk.
+Geeft elke link goed aan waar naartoe gelinkt wordt?
+Ja, de topnavigatie is duidelijk, ook voor screenreaders.
+Heeft elke button een heldere naam?….
+Ja.
+
+2. Alleen-een-toetsenbord
+3. WCAG checklist
+
 ### 29 sept. - Thuis werken
 
 Vandaag was ik nog steeds ziek, maar beter aan het worden door de dag heen, dus besloot ik om wat schoolwerk in te halen van maandag, want ik was toen ziek.
