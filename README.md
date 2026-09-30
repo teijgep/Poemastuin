@@ -26,6 +26,18 @@ Heeft elke button een heldere naam?….
 Ja.
 
 2. Alleen-een-toetsenbord
+
+Interactie elementen 
+link, button, dialog, details/summary, inputs…
+Zijn ze allemaal te bereiken met het toetsenbord?
+Ja, je kan tabben door de topnav en de Cookies-opties.
+Is de volgorde logisch (focus-volgorde - gelijk aan visuele volgorde)?
+Ik zou denken van wel.
+Zijn er :focus en :active states?
+Ja. Focus en vooral active states wil ik nog aanpassen om duidelijker te maken.
+Is er een skip to content link?
+?
+
 3. WCAG checklist
 
 ### 29 sept. - Thuis werken
