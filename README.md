@@ -60,6 +60,24 @@ Kijken of ik een foto als knop kan laten dienen.
 
 Succesvol.
 
+Checkout
+Waar staat WCAG en A11y voor?
+
+Web Content Accessibility Guidelines, checklist of je website voldoet aan de toegankelijkheidseisen.
+
+A11y is een afkorting voor "accessibility".
+
+Wat vind je lastiger, je laptop/websites alleen met een toetsenbord bedienen of met een screenreader? Waarom? Waar moet je nog mee oefenen?
+Screenreader, ik moet nog oefenen met bepaalde sneltoetsen. Screenreader gebruiken kan soms frustrerend zijn, aangezien het hardop praat en soms allemaal extra info geeft, die ik niet nodig heb.
+
+Met welke beperking rekening houden vind je het meest lastig?
+Mensen met evenwichtsproblemen: het lukt nog niet volledig om mijn animaties stop te zetten, als de "reduced motion"/"verminder beweging" functie aanstaat.
+
+Vind je dat je beperkt wordt in wat je kunt ontwerpen?
+Nee, ik kan nog steeds ongeveer ontwerpen wat ik wil.
+
+Of heb je al manieren gevonden om vanuit een solide basis  - die voor iedereen toegankelijk is - allemaal leuke en mooie extra's toe te voegen als je bezoekers dat goed vinden?
+Ja, de alt teksten zorgen voor nog meer creatieve uitlaat, want het is tof om leuke becshrijvingen te bedenken voor mensen, die een screenreader gebruiken.
 
 ### 29 sept. - Thuis werken
 
