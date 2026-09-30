@@ -220,3 +220,22 @@ dialog p {
 .lightdarkmode {
   font-family: Rounded;
 }
+
+footer {
+  position: fixed;
+  right: 20px;
+  bottom: 20px;
+}
+
+footer button {
+  background: none;
+  border: none;
+}
+
+.Cookiesicoon img {
+  position: sticky;
+  right: 0;
+  bottom: 0;
+  width: 200px;
+  height: 200px;
+}
