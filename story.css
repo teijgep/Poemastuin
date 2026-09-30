@@ -1,17 +1,29 @@
 html {
- background-color: #f5b5e0;
+  background-color: #f5b5e0;
 }
 
 @font-face {
-  font-family: LEMONMILK-Regular;
-  src: url("LEMONMILK-Regular.otf");
+  font-family: Rounded;
+  src: url(Rounded\ Elegance\ Regular.otf);
+}
+
+@font-face {
+  font-family: Bubblegum;
+  src: url(Bubblegum.ttf);
 }
 
 body {
-font-family: LEMONMILK-Regular;
+  margin: 0;
+  padding: 30px;
+  text-align: left;
+}
+
+h1 {
+  font-family: Bubblegum;
 }
 
 p {
+  font-family: Rounded;
   font-size: 20px;
 }
 
