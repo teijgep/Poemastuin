@@ -216,3 +216,7 @@ dialog {
 dialog p {
   font-size: 14px;
 }
+
+.lightdarkmode {
+  font-family: Rounded;
+}
