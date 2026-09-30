@@ -185,3 +185,17 @@ img {
   border-radius: 40px;
 }
 
+dialog {
+  position: fixed;
+  right: 20px;
+  bottom: 20px;
+  margin: 0;
+  width: 300px;
+  border: none;
+  border-radius: 15px;
+  box-shadow: 0 5px 20px purple;
+}
+
+dialog p {
+  font-size: 14px;
+}
