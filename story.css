@@ -92,4 +92,36 @@ p {
   gap: 20px;
 }
 
+  .konijnopeenfiets {
+    width: 200px;
+    animation: fietsen 5s infinite alternate;
+}
+
+@keyframes fietsen {
+  0% {
+    margin-left: 0;
+    transform: scaleX(1);
+  }
+
+  49% {
+    margin-left: 75%;
+    transform: scaleX(1);
+  }
+
+  50% {
+    margin-left: 75%;
+    transform: scaleX(-1);
+  }
+
+  99% {
+    margin-left: 0;
+    transform: scaleX(-1);
+  }
+
+  100% {
+    margin-left: 0;
+    transform: scaleX(1);
+  }
+}
+
 
