@@ -1,4 +1,3 @@
-<img width="270" height="224" alt="Scherm­afbeelding 2026-10-02 om 01 05 19" src="https://github.com/user-attachments/assets/ab56d8ab-52c9-462d-870e-980197e876c9" />
 # Model
 
 Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door studenten worden gemaakt.
@@ -8,6 +7,8 @@ Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door
 ### 1 okt. - Thuis werken
 
 <img width="1440" height="810" alt="Scherm­afbeelding 2026-10-02 om 01 01 34" src="https://github.com/user-attachments/assets/73347142-8f69-45a9-880a-f6fb24695aac" />
+<img width="410" height="364" alt="Scherm­afbeelding 2026-10-02 om 01 02 17" src="https://github.com/user-attachments/assets/21ab5cb6-3eaf-4775-a091-51fc402e00a4" />
+
 
 Ik heb o.a. nieuwe animaties toegevoegd! 
 Ik heb vandaag ook gezorgd dat de animaties niet afspelen, als iemand "reduce motion" heeft aanstaan.
@@ -91,8 +92,7 @@ Ja, de alt teksten zorgen voor nog meer creatieve uitlaat, want het is tof om le
 
 
 
-
-<img width="410" height="364" alt="Scherm­afbeelding 2026-10-02 om 01 02 17" src="https://github.com/user-attachments/assets/21ab5cb6-3eaf-4775-a091-51fc402e00a4" />
+<img width="270" height="224" alt="Scherm­afbeelding 2026-10-02 om 01 05 19" src="https://github.com/user-attachments/assets/ab56d8ab-52c9-462d-870e-980197e876c9" />
 Ik heb een Cookies-konijn getekend voor de Cookies-functie.
 
 
