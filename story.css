@@ -93,11 +93,12 @@ p {
 }
 
   .konijnopeenfiets {
-    width: 200px;
-    animation: fietsen 5s infinite alternate;
+  width: 200px;
+  animation: fietsen 6s linear infinite;
 }
 
 @keyframes fietsen {
+
   0% {
     margin-left: 0;
     transform: scaleX(1);
@@ -122,6 +123,5 @@ p {
     margin-left: 0;
     transform: scaleX(1);
   }
+
 }
-
-
