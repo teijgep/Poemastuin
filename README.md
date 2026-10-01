@@ -92,7 +92,7 @@ Ja, de alt teksten zorgen voor nog meer creatieve uitlaat, want het is tof om le
 
 
 
-<img width="270" height="224" alt="Scherm­afbeelding 2026-10-02 om 01 05 19" src="https://github.com/user-attachments/assets/ab56d8ab-52c9-462d-870e-980197e876c9" />
+<img width="105" height="185" alt="Scherm­afbeelding 2026-10-02 om 01 09 12" src="https://github.com/user-attachments/assets/2171e6c0-4e26-4630-afb5-35e3f0b332c5" />
 Ik heb een Cookies-konijn getekend voor de Cookies-functie.
 
 
