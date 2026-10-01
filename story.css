@@ -62,6 +62,32 @@ p {
 
 .imgBadBunny img:hover {
   transform: scale(1.1);
-  box-shadow: 10px 10px 20px black;
+  box-shadow: 10px 10px 20px purple;
   rotate: 5deg;
+}
+
+@keyframes draaien {
+  from {
+    rotate: 0deg;
+  }
+
+  to {
+    rotate: 360deg;
+  }
+}
+
+.vinyl img {
+  animation: draaien 3s linear infinite;
+}
+
+.vinyl img:hover {
+  transform: scale(1.1);
+  filter: drop-shadow(5px 5px 10px purple);
+  animation: draaien 1s linear infinite;
+}
+
+.afbeeldingen {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 20px;
 }
