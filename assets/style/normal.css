@@ -107,12 +107,13 @@ p {
   background-color: purple;
 }
 
-  .homepagekonijn {
-    animation: bewegen 5s infinite alternate;
+.homepagekonijn {
+  animation: bewegen 5s infinite alternate;
 }
 
 @keyframes bewegen {
- from {
+
+  from {
     margin-left: 0;
     transform: scaleX(1);
   }
@@ -121,12 +122,15 @@ p {
     margin-left: 95%;
     transform: scaleX(-1);
   }
+
 }
 
-  @media (prefers-reduced-motion: reduce) {
-  .bewegen {
+@media (prefers-reduced-motion: reduce) {
+
+  .homepagekonijn {
     animation: none;
   }
+
 }
 
 html:has([value="light-theme"]:checked) .konijn1 {
@@ -145,7 +149,11 @@ html:has([value="light-theme"]:checked) .konijn1 {
     animation: rainbow 10s infinite;
   }
 
-  @keyframes rainbow {
+  .borderanimatie {
+  animation: rainbow 2s infinite;
+}
+
+  @keyframes borderanimatie {
     0% { border-color: white;
     }
     25% { border-color: purple;
@@ -158,8 +166,8 @@ html:has([value="light-theme"]:checked) .konijn1 {
     }
   }
 
-    @media (prefers-reduced-motion: reduce) {
-  .bewegen {
+@media (prefers-reduced-motion: reduce) {
+  .borderanimatie {
     animation: none;
   }
 }
@@ -250,4 +258,10 @@ footer button {
 
 .Cookiesicoon img:hover {
   animation: draaien 1s linear;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .Cookiesicoon img:hover {
+    animation: none;
+  }
 }

@@ -85,6 +85,12 @@ p {
   animation: draaien 1s linear infinite;
 }
 
+@media (prefers-reduced-motion: reduce) {
+  .vinyl img {
+    animation: none;
+  }
+}
+
 .afbeeldingen {
   display: grid;
   grid-template-columns: 1fr 1fr;
@@ -134,4 +140,10 @@ p {
     transform: scaleX(1);
   }
 
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .konijnopeenfiets {
+    animation: none;
+  }
 }
