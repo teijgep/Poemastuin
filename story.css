@@ -31,7 +31,6 @@ h2 {
 h3 {
   font-family: Bubblegum;
   font-size: 20px;
-  padding-bottom: 0.5em;
 }
 
 p {
@@ -92,9 +91,20 @@ p {
   gap: 20px;
 }
 
+@media (max-width: 600px) {
+  .afbeeldingen {
+    grid-template-columns: 1fr;
+  }
+}
+
   .konijnopeenfiets {
   width: 200px;
   animation: fietsen 6s linear infinite;
+}
+
+.konijnopeenfiets img:hover {
+  transform: scale(1.35);
+  rotate: 30deg;
 }
 
 @keyframes fietsen {

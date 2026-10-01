@@ -107,9 +107,8 @@ p {
   background-color: purple;
 }
 
-  .konijn1 {
-    width: 200px;
-    animation: bewegen 6.5s infinite alternate;
+  .homepagekonijn {
+    animation: bewegen 5s infinite alternate;
 }
 
 @keyframes bewegen {
@@ -130,8 +129,7 @@ p {
   }
 }
 
-html:has([value="dark-theme"]:checked) .konijn1,
-html:has([value="auto-theme"]:checked) .konijn1 {
+html:has([value="light-theme"]:checked) .konijn1 {
   filter: invert(1);
 }
 
