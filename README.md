@@ -4,6 +4,16 @@ Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door
 
 ## Learning Log
 
+### 1 okt. - Thuis werken
+
+<img width="1440" height="810" alt="Scherm­afbeelding 2026-10-02 om 01 01 34" src="https://github.com/user-attachments/assets/73347142-8f69-45a9-880a-f6fb24695aac" />
+
+<img width="410" height="364" alt="Scherm­afbeelding 2026-10-02 om 01 02 17" src="https://github.com/user-attachments/assets/21ab5cb6-3eaf-4775-a091-51fc402e00a4" />
+
+Ik heb o.a. nieuwe animaties toegevoegd! 
+Ik heb vandaag ook gezorgd dat de animaties niet afspelen, als iemand "reduce motion" heeft aanstaan.
+
+
 ### 30 sept. - Schooldag
 
 Website testen:
