@@ -232,10 +232,24 @@ footer button {
   border: none;
 }
 
+@keyframes draaien {
+  from {
+    rotate: 0deg;
+  }
+
+  to {
+    rotate: 360deg;
+  }
+}
+
 .Cookiesicoon img {
   position: sticky;
   right: 0;
   bottom: 0;
   width: 200px;
   height: 200px;
+}
+
+.Cookiesicoon img:hover {
+  animation: draaien 1s linear;
 }
