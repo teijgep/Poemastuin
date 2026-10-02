@@ -4,12 +4,12 @@ html {
 
 @font-face {
   font-family: Rounded;
-  src: url(Rounded\ Elegance\ Regular.otf);
+  src: url(assets/style/Rounded\ Elegance\ Regular.otf);
 }
 
 @font-face {
   font-family: Bubblegum;
-  src: url(Bubblegum.ttf);
+  src: url(assets/style/Bubblegum.ttf);
 }
 
 body {
