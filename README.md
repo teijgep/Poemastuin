@@ -4,6 +4,16 @@ Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door
 
 ## Learning Log
 
+
+### 2 okt. - Schooldag
+
+Feedback van Vasilis:
+-focus states vormgeven
+-kopjes met screenreader
+-alt tekst Cookies
+-meer schetsen maken
+-coderen en readme afwisselen
+
 ### 1 okt. - Thuis werken
 
 <img width="1440" height="810" alt="Scherm­afbeelding 2026-10-02 om 01 01 34" src="https://github.com/user-attachments/assets/73347142-8f69-45a9-880a-f6fb24695aac" />
