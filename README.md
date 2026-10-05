@@ -15,6 +15,7 @@ Check-out:
 3. Spacing, aangezien je dan alle elementen in een "goede" visuele hierarchie kan plaatsen.
 
 
+
 ### 2 okt. - Schooldag
 
 Feedback van Vasilis:
