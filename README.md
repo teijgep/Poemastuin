@@ -4,6 +4,14 @@ Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door
 
 ## Learning Log
 
+Check-out:
+
+1. Het zijn allemaal termen op teksten mee te structueren. Zoals de ruimte tussen de letters en woorden en de witruimte eromheen.
+
+2. Tussen de 45 en 75 karakters. Waarom? Omdat dit in "de Bijbel" van typografie staat.
+
+3. Spacing, aangezien je dan alle elementen in een "goede" visuele hierarchie kan plaatsen.
+
 
 ### 2 okt. - Schooldag
 
