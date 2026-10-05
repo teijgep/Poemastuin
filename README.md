@@ -4,6 +4,8 @@ Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door
 
 ## Learning Log
 
+### 5 oktober - Schooldag
+
 Check-out:
 
 1. Het zijn allemaal termen op teksten mee te structueren. Zoals de ruimte tussen de letters en woorden en de witruimte eromheen.
