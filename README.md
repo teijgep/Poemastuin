@@ -4,6 +4,13 @@ Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door
 
 ## Learning Log
 
+### 6 oktober - Naar school voor deepdive
+
+Vandaag was ik naar school voor de deepdive-les van Vasilis.
+
+<img width="1440" height="800" alt="Scherm­afbeelding 2026-10-06 om 14 53 49" src="https://github.com/user-attachments/assets/336b3d82-8a17-4552-b64d-9e1b31597b0a" />
+
+
 ### 5 oktober - Schooldag
 
 Check-out:
