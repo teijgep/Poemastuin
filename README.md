@@ -22,6 +22,7 @@ Noem drie manieren om chaos in je ontwerp te voorkomen.
 Hoeveel gekkigheid moet er in je werk zitten?
 Je moet creatieve gekkigheid combineren met een harmonieuze hierarchie om een goed werk af te leveren.
 
+
 ### 6 oktober - Naar school voor deepdive
 
 Vandaag was ik naar school voor de deepdive-les van Vasilis.
