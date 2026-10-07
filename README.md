@@ -4,6 +4,24 @@ Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door
 
 ## Learning Log
 
+### 7 okt. - Schooldag
+
+Check-out:
+
+Waarom is het goed om een grid in je ontwerp toe te passen? Noem een reden voor de ontwerper en een voor de bezoeker.
+Voor de ontwerper, is het handig om alle elementen neer te kunnen zetten op een overzichtelijke manier. 
+Voor de bezoeker ziet grid er beter uit, aangezien een hierarchie met een grid overzichtelijker en fijner oogt.
+
+
+Noem drie manieren om chaos in je ontwerp te voorkomen.
+-Een hierarchie toevoegen, die de belangrijkste elementen benadrukt.
+-Een grid toevoegen, die de elementen ordent.
+-Typoggrafie: passend(e) font(s) gebruiken, die passen bij het concept achter je werk.
+
+
+Hoeveel gekkigheid moet er in je werk zitten?
+Je moet creatieve gekkigheid combineren met een harmonieuze hierarchie om een goed werk af te leveren.
+
 ### 6 oktober - Naar school voor deepdive
 
 Vandaag was ik naar school voor de deepdive-les van Vasilis.
