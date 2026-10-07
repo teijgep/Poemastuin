@@ -1,0 +1,67 @@
+/* MARK: fonts */
+@font-face {
+  font-family: 'Seraphs';
+  src: url('font/SeraphsVF.woff2') format('woff2'), /* Modern Browsers */
+}
+/* MARK: items */
+body{
+  font-family: 'Seraphs';
+  background: radial-gradient(yellow, purple);
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+}
+
+h1 {
+  font-size: 20px;
+  writing-mode: sideways-rl;
+  color: yellow;
+}
+
+h2 {
+  font-size: 20px;
+  color: white;
+  transform: translatex(12rem)
+}
+
+h3 {
+  font-size: 20px;
+  letter-spacing: 10px;
+  color: white;
+}
+
+.boog {
+  transform: translatey(10rem) rotate(-30deg);
+}
+
+h4 {
+  font-size: 40px;
+  text-align: center;
+  margin-top: 0;
+  transform: translatey(15rem);
+  color: purple;
+}
+
+h5 {
+  font-size: 15px;
+  writing-mode: sideways-rl;
+  transform: translatex(-8rem);
+  color: white;
+}
+
+
+h6 {
+  font-size: 15px;
+  grid-column: 3;
+  grid-row: 2;
+  justify-self: end;
+  transform: translatex(5rem);
+  writing-mode: sideways-lr;
+  color: white;
+}
+
+
+p {
+  font-size: 35px;
+  color: white;
+  transform: translatex(8rem)
+}

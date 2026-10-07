@@ -264,3 +264,16 @@ footer button {
     animation: none;
   }
 }
+
+a {
+  background-color: pink;
+  color: black;
+  padding: 10px 20px;
+  text-decoration: none;
+  border-radius: 10px;
+}
+
+a:hover {
+  background-color: purple;
+  color: white;
+}
