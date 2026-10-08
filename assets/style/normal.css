@@ -31,6 +31,11 @@ html:has([value="dark-theme"]:checked) {
   src: url("Rounded\ Elegance\ Regular.otf");
 }
 
+@font-face {
+	font-family:"Nabla";
+	src:url("Nabla.ttf");
+}
+
 ::selection {
   background-color: white;
   color: black;
@@ -265,15 +270,26 @@ footer button {
   }
 }
 
-a {
-  background-color: pink;
-  color: black;
-  padding: 10px 20px;
-  text-decoration: none;
-  border-radius: 10px;
-}
 
-a:hover {
-  background-color: purple;
-  color: white;
-}
+  .happen {
+    border-radius: 30px;;
+  }
+
+	a span {
+		font-family:"Nabla";
+    font-size: 50px;
+		font-weight:400;
+		font-variation-settings: "EDPT" 0, "EHLT" 0;
+		
+		transition-delay: calc( sibling-index() * .05s);
+		transition-timing-function:ease-in;
+		transition: font-variation-settings 0.3s, border-color 0.3s, border-radius 0.3s;
+	
+    background: purple;
+  }
+
+	a:hover span {
+		font-variation-settings: "EDPT" 100, "EHLT" 24;
+	
+    background: linear-gradient(purple, yellow);
+  }
