@@ -4,6 +4,13 @@ Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door
 
 ## Learning Log
 
+### 8 okt. - Thuis werken
+
+Ik was vandaag bezig met de deepdive Variabele fonts. Ik leerde hoe je variabele fonts kan gebruiken om je website er interessanter uit te laten zien, qua vormgeving.
+
+<img width="1440" height="747" alt="Scherm­afbeelding 2026-10-08 om 21 47 27" src="https://github.com/user-attachments/assets/6923dca8-22f7-40b0-8d39-738a35835206" />
+
+
 ### 7 okt. - Schooldag
 
 Check-out:
