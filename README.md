@@ -57,6 +57,11 @@ Mijn schetsen voor de liedtekst-opdracht:
 <img width="1127" height="900" alt="Scherm­afbeelding 2026-10-09 om 09 40 46" src="https://github.com/user-attachments/assets/36f846b0-5025-445a-a27e-bf408de20ea1" />
 <img width="1335" height="900" alt="Scherm­afbeelding 2026-10-09 om 09 40 05" src="https://github.com/user-attachments/assets/06ebb46f-03e3-4769-a086-f6ababf6e4fb" />
 
+Schets, die ik wil uitwerken:
+<img width="607" height="899" alt="Scherm­afbeelding 2026-10-09 om 09 53 53" src="https://github.com/user-attachments/assets/798bee7e-f93d-4444-bead-8bd707eeda9c" />
+
+
+
 
 
 Check-out:
