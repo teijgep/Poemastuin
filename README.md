@@ -50,6 +50,15 @@ Dit is de digitale versie van mijn liedtekst-opdracht. Dit is de eerste versie. 
 
 ### 5 oktober - Schooldag
 
+Mijn schetsen voor de liedtekst-opdracht:
+
+<img width="633" height="138" alt="Scherm­afbeelding 2026-10-09 om 09 41 46" src="https://github.com/user-attachments/assets/546d0c7d-1554-47af-9481-10f44254337f" />
+<img width="1201" height="900" alt="Scherm­afbeelding 2026-10-09 om 09 41 13" src="https://github.com/user-attachments/assets/c0f82d97-4495-4215-be33-e84e4665a43a" />
+<img width="1127" height="900" alt="Scherm­afbeelding 2026-10-09 om 09 40 46" src="https://github.com/user-attachments/assets/36f846b0-5025-445a-a27e-bf408de20ea1" />
+<img width="1335" height="900" alt="Scherm­afbeelding 2026-10-09 om 09 40 05" src="https://github.com/user-attachments/assets/06ebb46f-03e3-4769-a086-f6ababf6e4fb" />
+
+
+
 Check-out:
 
 1. Het zijn allemaal termen op teksten mee te structueren. Zoals de ruimte tussen de letters en woorden en de witruimte eromheen.
