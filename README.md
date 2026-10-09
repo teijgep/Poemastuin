@@ -16,6 +16,9 @@ Hier is de eerste versie van een knop, waarbij ik de kennis van de deepdive had 
 
 ### 7 okt. - Schooldag
 
+<img width="1440" height="857" alt="Scherm­afbeelding 2026-10-09 om 09 28 39" src="https://github.com/user-attachments/assets/24ddad05-50db-4644-98ff-4604ff706d95" />
+Dit is een verbeterde versie van mijn digitale versie. Ik heb de tekst meer over het scherm verspreid en nagedacht over welke woorden nadruk nodig hebben. Ik vond het woord "me" heel belangrijk en wilde echt dat het eruit sprong en echt (letterlijk) centraal stond.
+
 Check-out:
 
 Waarom is het goed om een grid in je ontwerp toe te passen? Noem een reden voor de ontwerper en een voor de bezoeker.
