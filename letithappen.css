@@ -13,7 +13,7 @@ body{
 h1 {
   font-size: 20px;
   writing-mode: sideways-rl;
-  color: yellow;
+  color: black;
   font-variation-settings: "wght" 100, "SRFS" 60;
 }
 
@@ -21,13 +21,24 @@ h2 {
   font-size: 20px;
   color: black;
   transform: translatex(12rem)
+  font-variation-settings: "wght" 200, "SRFS" 15;
 }
 
-h3 {
-  font-size: 20px;
-  letter-spacing: 10px;
-  color: black;
-}
+	h3 span {
+    font-size: 20px;
+    letter-spacing: 10px;
+
+		transition-duration:.15s;
+		transition-delay: calc( sibling-index() * .1s);
+		transition-timing-function:ease-in-out;
+		transition-property: font-variation-settings;
+
+    font-variation-settings: "wght" 100, "SRFS" 15;
+  }
+
+  	h3:hover span {
+		font-variation-settings: "wght" 200, "SRFS" 15;
+	}
 
 .boog {
   transform: translatey(10rem) rotate(-30deg);
@@ -38,8 +49,14 @@ h4 {
   text-align: center;
   margin-top: 0;
   transform: translatey(15rem);
-  color: purple;
-  font-variation-settings: "wght" 200, "SRFS" 30;
+  color: black;
+  font-variation-settings: "wght" 100, "SRFS" 30;
+    transition:1s;
+
+  &:hover {
+    font-variation-settings: "wght" 200, "SRFS" 0;
+  }
+
 }
 
 h5 {
@@ -47,6 +64,7 @@ h5 {
   writing-mode: sideways-rl;
   transform: translatex(-8rem);
   color: black;
+  font-variation-settings: "wght" 150, "SRFS" 15;
 }
 
 
@@ -58,6 +76,12 @@ h6 {
   transform: translatex(5rem);
   writing-mode: sideways-lr;
   color: black;
+  font-variation-settings: "wght" 200, "SRFS" 0;
+      transition:1.5s;
+
+  &:hover {
+    font-variation-settings: "wght" 100, "SRFS" 60;
+  }
 }
 
 
@@ -65,4 +89,10 @@ p {
   font-size: 35px;
   color: black;
   transform: translatex(8rem)
+  font-variation-settings: "wght" 200, "SRFS" 0;
+        transition: 3s;
+
+  &:hover {
+    font-variation-settings: "wght" 200, "SRFS" 60;
+  }
 }
