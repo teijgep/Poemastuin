@@ -270,12 +270,15 @@ footer button {
   }
 }
 
-
   .happen {
-    border-radius: 30px;;
+  background: purple;
+  display: table;
+  padding: 10px;
+  border-radius: 30px;
+  margin: 50px auto 0;
   }
 
-	a span {
+.happen a span {
 		font-family:"Nabla";
     font-size: 50px;
 		font-weight:400;
@@ -284,12 +287,12 @@ footer button {
 		transition-delay: calc( sibling-index() * .05s);
 		transition-timing-function:ease-in;
 		transition: font-variation-settings 0.3s, border-color 0.3s, border-radius 0.3s;
-	
-    background: purple;
   }
 
-	a:hover span {
-		font-variation-settings: "EDPT" 100, "EHLT" 24;
-	
-    background: linear-gradient(purple, yellow);
-  }
+.happen:hover {
+  background: linear-gradient(yellow, purple);
+}
+
+.happen a:hover span {
+  font-variation-settings: "EDPT" 100, "EHLT" 24;
+}
