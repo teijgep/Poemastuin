@@ -4,6 +4,12 @@ Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door
 
 ## Learning Log
 
+### 9 okt- Schooldag
+
+Ik wil de deepdive kennis natuurlijk ook toepassen op mijn liedtekst. De woorden, waar nadruk op ligt in het nummer kan ik natuurlijk (extra) benadrukken met variabele font animaties.
+
+Aangezien ik nog wat witruimte over heb onder "LETITHAPPEN." wil ik daar misschien een verticaal effect toevoegen naar beneden toe.
+
 ### 8 okt. - Thuis werken
 
 Ik was vandaag bezig met de deepdive Variabele fonts. Ik leerde hoe je variabele fonts kan gebruiken om je website er interessanter uit te laten zien, qua vormgeving.
