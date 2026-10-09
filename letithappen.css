@@ -1,7 +1,7 @@
 /* MARK: fonts */
 @font-face {
   font-family: 'Seraphs';
-  src: url('font/SeraphsVF.woff2') format('woff2'), /* Modern Browsers */
+  src: url('assets/style/SeraphsVF.woff2') format('woff2'), /* Modern Browsers */
 }
 /* MARK: items */
 body{
@@ -15,6 +15,7 @@ h1 {
   font-size: 20px;
   writing-mode: sideways-rl;
   color: yellow;
+  font-variation-settings: "wght" 100, "SRFS" 60;
 }
 
 h2 {
@@ -39,6 +40,7 @@ h4 {
   margin-top: 0;
   transform: translatey(15rem);
   color: purple;
+  font-variation-settings: "wght" 200, "SRFS" 30;
 }
 
 h5 {
