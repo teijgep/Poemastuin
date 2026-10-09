@@ -11,7 +11,7 @@ Ik was vandaag bezig met de deepdive Variabele fonts. Ik leerde hoe je variabele
 <img width="1440" height="747" alt="Scherm­afbeelding 2026-10-08 om 21 47 27" src="https://github.com/user-attachments/assets/6923dca8-22f7-40b0-8d39-738a35835206" />
 
 <img width="349" height="133" alt="Scherm­afbeelding 2026-10-09 om 09 06 38" src="https://github.com/user-attachments/assets/84e55bba-8bf8-410f-b29b-f9810ca750e1" />
-Hier is de eerste versie vane en knop, waarbij ik de kennis van de deepdive had toegpast.
+Hier is de eerste versie van een knop, waarbij ik de kennis van de deepdive had toegpast. Deze knop leidt naar mijn liedtekst-opdracht. Als je over de knop hovert komt er een animatie (interactie met de knop).
 
 
 ### 7 okt. - Schooldag
