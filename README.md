@@ -40,6 +40,10 @@ Vandaag was ik naar school voor de deepdive-les van Vasilis.
 <img width="1440" height="800" alt="Scherm­afbeelding 2026-10-06 om 14 53 49" src="https://github.com/user-attachments/assets/336b3d82-8a17-4552-b64d-9e1b31597b0a" />
 
 
+<img width="1440" height="777" alt="Scherm­afbeelding 2026-10-09 om 09 26 32" src="https://github.com/user-attachments/assets/52a9b907-3115-405a-bb46-2880610281e0" />
+Dit is de digitale versie van mijn liedtekst-opdracht. Dit is de eerste versie. Ik heb gekozen voor gecentreerde hierarchie, waarbij de ogen verticaal naar beneden worden geleidt. Ik vond dit passen bij de geleidelijke flow van het nummer Let it Happen van Tame Impala.
+
+
 ### 5 oktober - Schooldag
 
 Check-out:
