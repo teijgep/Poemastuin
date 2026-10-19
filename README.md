@@ -13,7 +13,9 @@ Verder had ik vandaag nog feedback van een klasgenoot gekregen. Ik ging met haar
 
 Feedback van Laura:
 -Ritme-animatie horizontaal maken in plaats van verticaal.
+
 -De animaties voegen een hele positieve vibe toe.
+
 -Bekijk het contrast nog een keertje.
 
 ### 9 okt- Schooldag
