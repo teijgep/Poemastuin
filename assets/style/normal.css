@@ -79,6 +79,12 @@ html:has([value="light-theme"]:checked) p {
   color: white;
 }
 
+html:has([value="auto-theme"]:checked) h1,
+html:has([value="dark-theme"]:checked) h1 {
+  background: none;
+  color: white;
+}
+
 html:has([value="light-theme"]:checked) h2 {
   color: black;
 }
@@ -87,10 +93,8 @@ html:has([value="light-theme"]:checked) h3 {
   color: black;
 }
 
-html:has([value="auto-theme"]:checked) h1,
-html:has([value="dark-theme"]:checked) h1 {
-  background: none;
-  color: white;
+html:has([value="light-theme"]:checked) h4 {
+  color: black;
 }
 
 html:has([value="light-theme"]:checked) .lightdarkmode{
@@ -345,33 +349,27 @@ li[aria-label="like-it"] button {
 	height:2.5em;
 	padding:0;
 	
-	/* dooorzichtige achtergrond */
 	background-color:transparent;
 	border-radius:.25em;
 	color:black;
 	
 	line-height:1em;
 	font-size:2.5em;
-	/* randje/outline */
+
 	-webkit-text-stroke-width:.05em;
   -webkit-text-stroke-color:gold;
-	/* kleur van rand bij focus */
+
 	outline-color:goldenrod;
 }
 
-/* als met JS de class 'liked' op de div is gezet */
 li[aria-label="like-it"] button.liked {
-	/* JOUW CODE HIER */
-	/* nodig: animation-name, animation-duration, animation-iteration-count, animation-fill-mode */
-	/* --> 2x animeren */
-	/* --> na afloop op keyframe 100% blijven */
-	/* ook nodig: kleur (crimson) */
+
   animation-name:--like-it-animation;
 	animation-duration:.35s;
 	animation-iteration-count:2;
 	animation-fill-mode:forwards;
 	
-  background: radial-gradient(circle, gold, crimson);
+  background: radial-gradient(circle, gold, purple);
   background-clip: text;
   -webkit-background-clip: text;
   color: transparent;
