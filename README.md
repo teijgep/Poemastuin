@@ -12,6 +12,7 @@ Hier zie je hoe "webby" mijn website is. Ik heb nog een aantal verbeterpunten bi
 Verder had ik vandaag nog feedback van een klasgenoot gekregen. Ik ging met haar namelijk even kijken naar mijn website en mijn webby-formulier.
 
 Feedback van Laura:
+
 -Ritme-animatie horizontaal maken in plaats van verticaal.
 
 -De animaties voegen een hele positieve vibe toe.
