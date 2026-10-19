@@ -91,6 +91,98 @@ p {
   }
 }
 
+@keyframes --ritme-animation {
+  0% {
+		/* nada */
+  }
+  50% {
+		/* JOUW CODE HIER */
+		/* hoogte groter */
+		/* met custom property var(--h) */
+    height:var(--h);
+		/* andere achtergrond */
+		/* met custom property var(--h) */
+  }
+	100% {
+    /* nada */
+  }
+}
+
+li[aria-label="ritme"] div {
+	/* vierkant, rond en oranje */
+	width:1em;
+	height:1em;
+	border-radius:.5em;
+	background-color:purple;
+}
+
+li[aria-label="ritme"]:hover div {
+	/* JOUW CODE HIER */
+	/* nodig: animation-name, animation-iteration-count, animation-timing-function */
+  animation-name:--ritme-animation;
+	animation-duration:var(--dur);
+	animation-iteration-count:infinite;
+	animation-timing-function:ease-in-out;
+	
+	/* alle bolletjes afzonderlijk aanpassen  */
+	&:nth-of-type(1) {
+		/* JOUW CODE HIER */
+		/* nodig: animation-duration --> 1s */
+		/* met custom property hoogte definieren --> --h:2em; */
+		/* met custom property achtergrond definieren --> --bg:purple; */
+		--h:2em;
+		animation-duration:.7s;
+	}
+	&:nth-of-type(2) {
+		/* JOUW CODE HIER */
+		/* nodig: animation-duration --> .8s */
+		/* met custom property hoogte definieren --> --h:2.5em; */
+		/* met custom property achtergrond definieren --> --bg:crimson; */
+		--h:2.5em;
+		--dur:.8s;
+	}
+	&:nth-of-type(3) {
+		/* JOUW CODE HIER */
+		--h:3em;
+		--dur:.9s;
+	}
+	&:nth-of-type(4) {
+		/* JOUW CODE HIER */
+		--h:2.25em;
+		--dur:.7s;
+	}
+	&:nth-of-type(5) {
+		/* JOUW CODE HIER */
+		--h:1.75em;
+		--dur:.9s;
+	}
+	&:nth-of-type(6) {
+		/* JOUW CODE HIER */
+		--h:2.5em;
+		--dur:.8s;
+	}
+	&:nth-of-type(7) {
+		/* JOUW CODE HIER */
+		--h:2em;
+		--dur:.9s;
+	}
+	&:nth-of-type(8) {
+		/* JOUW CODE HIER */
+		--h:3em;
+		--dur:.7s;
+	}
+	&:nth-of-type(9) {
+		/* JOUW CODE HIER */
+		--h:1.5em;
+		--dur:.9s;
+	}
+	&:nth-of-type(10) {
+		/* JOUW CODE HIER */
+		--h:2em;
+		--dur:.8s;
+	}
+}
+
 .afbeeldingen {
   display: grid;
   grid-template-columns: 1fr 1fr;

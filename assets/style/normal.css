@@ -296,3 +296,74 @@ footer button {
 .happen a:hover span {
   font-variation-settings: "EDPT" 100, "EHLT" 24;
 }
+
+@keyframes --like-it-animation {
+	/* JOUW CODE HIER */
+	/* van normale maat */
+	/* naar 125% grootte */
+	/* terugnaar normale maat */
+  0% {
+    scale:1;
+  }
+	50% {
+		scale:1.25;
+	}
+	100% {
+		scale:1;
+	}
+}
+
+li[aria-label="like-it"] button {
+	width:2.5em;
+	height:2.5em;
+	padding:0;
+	
+	/* dooorzichtige achtergrond */
+	background-color:transparent;
+	border-radius:.25em;
+	color:black;
+	
+	line-height:1em;
+	font-size:2.5em;
+	/* randje/outline */
+	-webkit-text-stroke-width:.05em;
+  -webkit-text-stroke-color:gold;
+	/* kleur van rand bij focus */
+	outline-color:goldenrod;
+}
+
+/* als met JS de class 'liked' op de div is gezet */
+li[aria-label="like-it"] button.liked {
+	/* JOUW CODE HIER */
+	/* nodig: animation-name, animation-duration, animation-iteration-count, animation-fill-mode */
+	/* --> 2x animeren */
+	/* --> na afloop op keyframe 100% blijven */
+	/* ook nodig: kleur (crimson) */
+  animation-name:--like-it-animation;
+	animation-duration:.35s;
+	animation-iteration-count:2;
+	animation-fill-mode:forwards;
+	
+  background: radial-gradient(circle, gold, crimson);
+  background-clip: text;
+  -webkit-background-clip: text;
+  color: transparent;
+}
+
+li[aria-label="like-it"] {
+  list-style: none;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 5px;
+}
+
+.tekst-boven,
+.tekst-onder {
+  font-family: Rounded;
+  color: white;
+  font-size: 20px;
+  text-align: center;
+}
+
+
