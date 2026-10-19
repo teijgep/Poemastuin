@@ -4,6 +4,13 @@ Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door
 
 ## Learning Log
 
+### 19 okt. - Schooldag
+
+Feedback van Laura:
+-Ritme-animatie horizontaal maken in plaats van verticaal.
+-De animaties voegen een hele positieve vibe toe.
+-Bekijk het contrast nog een keertje.
+
 ### 9 okt- Schooldag
 
 Ik wil de deepdive kennis natuurlijk ook toepassen op mijn liedtekst. De woorden, waar nadruk op ligt in het nummer kan ik natuurlijk (extra) benadrukken met variabele font animaties.
