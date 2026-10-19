@@ -25,6 +25,13 @@ Ik wil de deepdive kennis natuurlijk ook toepassen op mijn liedtekst. De woorden
 
 Aangezien ik nog wat witruimte over heb onder "LETITHAPPEN." wil ik daar misschien een verticaal effect toevoegen naar beneden toe.
 
+Hier is een verbeterde versie van de knop, die leidt naar de liedtekstopdracht-pagina.
+
+
+<img width="231" height="132" alt="Scherm­afbeelding 2026-10-19 om 18 53 04" src="https://github.com/user-attachments/assets/b20e8bdd-e5bc-4470-92ae-efd27fd4c15a" />
+<img width="231" height="132" alt="Scherm­afbeelding 2026-10-19 om 18 52 32" src="https://github.com/user-attachments/assets/eb14be68-1353-4c9c-825c-c1468c661593" />
+Het heeft dus een hover-animatie met CSS gradient. Ik heb gekozen voor een border met ronde hoeken, want ik had eerder besloten dat dat de vormgeving zou worden van mijn site: een "zachte" en speelse uitstraling.
+
 ### 8 okt. - Thuis werken
 
 Ik was vandaag bezig met de deepdive Variabele fonts. Ik leerde hoe je variabele fonts kan gebruiken om je website er interessanter uit te laten zien, qua vormgeving.
