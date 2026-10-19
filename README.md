@@ -27,9 +27,12 @@ Tijdens de hersftreces heb ik de nieuw vergaarde kennis uit de animaties deepdiv
 Ik wilde graag een functie, waar mensen de site konden "liken". Hieronder zie je hoe ik bezig die functie te implementeren met werkende animatie.
 
 <img width="1387" height="217" alt="Scherm­afbeelding 2026-10-19 om 19 02 13" src="https://github.com/user-attachments/assets/628d73d8-0999-4f1e-8365-84a911c0f345" />
+
 Ik had eerst een beetje moeite om alles goed te koppelen (de html met de css) (en de javascript werkend te krijgen). Het was uiteindelijk gelukt!
 
+
 <img width="200" height="180" alt="Scherm­afbeelding 2026-10-19 om 18 59 15" src="https://github.com/user-attachments/assets/1ca46f48-069e-48ae-b74a-9ef727fda886" />
+
 Nu werkt de like-button-animatie en heb ik dus weer gekozen voor ronde hoeken bij de border.
 
 ### 9 okt- Schooldag
@@ -44,6 +47,11 @@ Hier is een verbeterde versie van de knop, die leidt naar de liedtekstopdracht-p
 <img width="231" height="132" alt="Scherm­afbeelding 2026-10-19 om 18 53 04" src="https://github.com/user-attachments/assets/b20e8bdd-e5bc-4470-92ae-efd27fd4c15a" />
 <img width="231" height="132" alt="Scherm­afbeelding 2026-10-19 om 18 52 32" src="https://github.com/user-attachments/assets/eb14be68-1353-4c9c-825c-c1468c661593" />
 Het heeft dus een hover-animatie met CSS gradient. Ik heb gekozen voor een border met ronde hoeken, want ik had eerder besloten dat dat de vormgeving zou worden van mijn site: een "zachte" en speelse uitstraling.
+
+
+Ik heb ook verder gewerkt aan de lied-tekst-opdracht, op het vlak van het Seraphs-font. Vasilis liet namelijk zien hoeveel mogelijkheden je hebt met het font. Het is natuurlijk een variabele font, dus je kan spelen met de dikte en de schreven. 
+
+Op basis van hoe het nummer klinkt, ging ik goed kijken naar de verschillende lyrics en besloot om zo te bepalen hoe ik het Seraphs-font ging modificeren. Ik had besloten dat als je hovert over de tekst dat je dan het font ziet veranderen en je dus echt de mogelijkheden en matamorfose van de het variabele font ziet.
 
 ### 8 okt. - Thuis werken
 
