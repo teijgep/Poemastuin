@@ -239,3 +239,26 @@ li[aria-label="ritme"]:hover div {
     animation: none;
   }
 }
+
+@keyframes --dblclick-animation {
+  0% {
+    translate:0 0;
+  }
+	50% {
+		translate:0 -1em;
+	}
+	100% {
+    translate:0 0;
+  }
+}
+
+li[aria-label="springen"] div.excited {
+  animation-name:--dblclick-animation;
+	animation-duration:.2s;
+  animation-iteration-count:infinite;
+	animation-timing-function:ease-out;
+	animation-direction:alternate;
+}
+
+
+
