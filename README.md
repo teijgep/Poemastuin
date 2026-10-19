@@ -19,6 +19,19 @@ Feedback van Laura:
 
 -Bekijk het contrast nog een keertje.
 
+
+### Herfstreces
+
+Tijdens de hersftreces heb ik de nieuw vergaarde kennis uit de animaties deepdive toegepast.
+
+Ik wilde graag een functie, waar mensen de site konden "liken". Hieronder zie je hoe ik bezig die functie te implementeren met werkende animatie.
+
+<img width="1387" height="217" alt="Scherm­afbeelding 2026-10-19 om 19 02 13" src="https://github.com/user-attachments/assets/628d73d8-0999-4f1e-8365-84a911c0f345" />
+Ik had eerst een beetje moeite om alles goed te koppelen (de html met de css) (en de javascript werkend te krijgen). Het was uiteindelijk gelukt!
+
+<img width="200" height="180" alt="Scherm­afbeelding 2026-10-19 om 18 59 15" src="https://github.com/user-attachments/assets/1ca46f48-069e-48ae-b74a-9ef727fda886" />
+Nu werkt de like-button-animatie en heb ik dus weer gekozen voor ronde hoeken bij de border.
+
 ### 9 okt- Schooldag
 
 Ik wil de deepdive kennis natuurlijk ook toepassen op mijn liedtekst. De woorden, waar nadruk op ligt in het nummer kan ik natuurlijk (extra) benadrukken met variabele font animaties.
@@ -46,7 +59,7 @@ Hier is de eerste versie van een knop, waarbij ik de kennis van de deepdive had 
 ### 7 okt. - Schooldag
 
 <img width="1440" height="857" alt="Scherm­afbeelding 2026-10-09 om 09 28 39" src="https://github.com/user-attachments/assets/24ddad05-50db-4644-98ff-4604ff706d95" />
-Dit is een verbeterde versie van mijn digitale versie. Ik heb de tekst meer over het scherm verspreid en nagedacht over welke woorden nadruk nodig hebben. Ik vond het woord "me" heel belangrijk en wilde echt dat het eruit sprong en echt (letterlijk) centraal stond.
+Dit is een verbeterde versie van mijn digitale versie. Ik heb de tekst meer over het scherm verspreidt en nagedacht over welke woorden nadruk nodig hebben. Ik vond het woord "me" heel belangrijk en wilde echt dat het eruit sprong en echt (letterlijk) centraal stond.
 
 Check-out:
 
