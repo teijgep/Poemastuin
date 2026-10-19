@@ -9,6 +9,7 @@ Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door
 <img width="1320" height="891" alt="Scherm­afbeelding 2026-10-19 om 18 41 01" src="https://github.com/user-attachments/assets/bf0922e9-2361-499d-bd72-fe85bd1609fa" />
 Hier zie je hoe "webby" mijn website is. Ik heb nog een aantal verbeterpunten bij verschillende aspecten. Ik ga proberen zoveel mogelijk punten proberen te verbeteren om mijn website zo "webby" mogelijk te maken.
 
+
 Feedback van Laura:
 -Ritme-animatie horizontaal maken in plaats van verticaal.
 -De animaties voegen een hele positieve vibe toe.
