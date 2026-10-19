@@ -53,6 +53,12 @@ Ik heb ook verder gewerkt aan de lied-tekst-opdracht, op het vlak van het Seraph
 
 Op basis van hoe het nummer klinkt, ging ik goed kijken naar de verschillende lyrics en besloot om zo te bepalen hoe ik het Seraphs-font ging modificeren. Ik had besloten dat als je hovert over de tekst dat je dan het font ziet veranderen en je dus echt de mogelijkheden en matamorfose van de het variabele font ziet.
 
+
+<img width="1440" height="776" alt="Scherm­afbeelding 2026-10-19 om 19 12 21" src="https://github.com/user-attachments/assets/09c5c3fc-1559-4fa7-adec-bf6e3b4b40ce" />
+
+(Hover-animatie kan je helaas niet zien hier, maar wel op mijn website.)
+
+
 ### 8 okt. - Thuis werken
 
 Ik was vandaag bezig met de deepdive Variabele fonts. Ik leerde hoe je variabele fonts kan gebruiken om je website er interessanter uit te laten zien, qua vormgeving.
