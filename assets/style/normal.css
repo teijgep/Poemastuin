@@ -184,6 +184,12 @@ html:has([value="light-theme"]:checked) .homepagekonijn {
     animation: rainbow 10s infinite;
   }
 
+  @media (max-width: 600px) {
+  .content {
+    grid-template-columns: 1fr;
+  }
+}
+
   .borderanimatie {
   animation: rainbow 2s infinite;
 }
