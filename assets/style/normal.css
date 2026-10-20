@@ -350,8 +350,7 @@ footer button {
   display: none;
 }
 
-
-  .happen {
+.happen {
   background: purple;
   display: table;
   padding: 10px;
@@ -424,18 +423,37 @@ li[aria-label="like-it"] button.liked {
 
 li[aria-label="like-it"] {
   list-style: none;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
   gap: 5px;
+}
+
+.likeknop ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.likeknop li {
+  display: grid;
+  grid-template-columns: auto; 
+  justify-items: start;       
+  gap: 5px;                   
 }
 
 .tekst-boven,
 .tekst-onder {
-  font-family: Rounded;
+  font-family: Rounded, sans-serif;
   color: white;
   font-size: 20px;
-  text-align: center;
+  margin: 0;
 }
+
+.tekst-boven {
+  margin-left: 35px;
+}
+
+.tekst-onder {
+  margin-left: 15px;
+}
+
 
 
