@@ -243,7 +243,7 @@ li[aria-label="ritme"]:hover div {
   }
 }
 
-@keyframes --dblclick-animation {
+/* @keyframes --dblclick-animation {
   0% {
     translate:0 0;
   }
@@ -261,7 +261,7 @@ li[aria-label="springen"] div.excited {
   animation-iteration-count:infinite;
 	animation-timing-function:ease-out;
 	animation-direction:alternate;
-}
+} */
 
 
 
