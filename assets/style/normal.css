@@ -301,6 +301,56 @@ footer button {
   }
 }
 
+.toggles {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 10px;
+}
+
+.toggle {
+  display: grid;
+  grid-template-columns: 50px auto;
+  align-items: center;
+  gap: 10px;
+  cursor: pointer;
+}
+
+.slider {
+  width: 50px;
+  height: 25px;
+  background-color: black;
+  border-radius: 25px;
+  position: relative;
+  transition: 0.5s;
+}
+
+.slider::before {
+  content: "";
+  width: 20px;
+  height: 20px;
+  background-color: purple;
+  border-radius: 25px;
+  position: absolute;
+  left: 3px;
+  top: 3px;
+  transition: 0.5s;
+}
+
+.toggle input:checked + .slider {
+  background-color: pink;
+}
+
+.toggle input:checked + .slider::before {
+  transform: transalteX(25px);
+}
+
+
+
+.toggle input {
+  display: none;
+}
+
+
   .happen {
   background: purple;
   display: table;
