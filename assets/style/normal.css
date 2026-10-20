@@ -11,7 +11,7 @@ html {
 	accent-color:light-dark(Crimson, White);
 }
 
-/* de toggles */
+/* light en dark mode */
 
 html:has([value="light-theme"]:checked) {
 	color-scheme:light;
@@ -49,6 +49,8 @@ body {
   padding-right: 50px;
 }
 
+/* topnavigatie */
+
 .topnav {
   display: grid;
   grid-template-columns: repeat(4, 150px);
@@ -64,6 +66,8 @@ body {
   }
 }
 
+/* De titel */
+
 h1 {
   margin-top: 25px;
   font-family: Bubblegum;
@@ -74,6 +78,8 @@ h1 {
   color: transparent;
   text-shadow: 2px 2px 5px #ff78d2;
 }
+
+/* light en dark mode */
 
 html:has([value="light-theme"]:checked) p {
   color: white;
@@ -134,6 +140,8 @@ h4 {
   text-align: center
 }
 
+/* tekst over konijneneiland (met border) */
+
 p {
   font-family: Rounded;
   font-size: 40px;
@@ -141,6 +149,8 @@ p {
   border-radius: 20px;
   background-color: purple;
 }
+
+/* geanimeerd konijn boven de tekst */
 
 .homepagekonijn {
   animation: bewegen 5s infinite alternate;
@@ -160,6 +170,8 @@ p {
 
 }
 
+/* toegankelijkheid */
+
 @media (prefers-reduced-motion: reduce) {
 
   .homepagekonijn {
@@ -168,9 +180,14 @@ p {
 
 }
 
+
+/* light en dark mode van geanimeerd konijn */
+
 html:has([value="light-theme"]:checked) .homepagekonijn {
   filter: invert(1);
 }
+
+/* class van konijneneiland-content */
 
   .content {
     display: grid;
@@ -184,11 +201,18 @@ html:has([value="light-theme"]:checked) .homepagekonijn {
     animation: rainbow 10s infinite;
   }
 
+.content img {
+  width: 325px;
+  height: 325px;
+}
+
   @media (max-width: 600px) {
   .content {
     grid-template-columns: 1fr;
   }
 }
+
+/* animatie van border */
 
   .borderanimatie {
   animation: rainbow 2s infinite;
@@ -207,16 +231,15 @@ html:has([value="light-theme"]:checked) .homepagekonijn {
     }
   }
 
+/* toegankelijkheid */
+
 @media (prefers-reduced-motion: reduce) {
   .borderanimatie {
     animation: none;
   }
 }
 
-  .content img {
-  width: 325px;
-  height: 325px;
-}
+/* topnavigatie knoppen */
 
 .topnav a {
   border-radius: 40px;
@@ -289,6 +312,8 @@ footer button {
   }
 }
 
+/* Cookies-knop */
+
 .Cookiesicoon img {
   position: sticky;
   right: 0;
@@ -306,6 +331,8 @@ footer button {
     animation: none;
   }
 }
+
+/* toggles van Cookies */
 
 .toggles {
   display: grid;
@@ -356,6 +383,13 @@ footer button {
   display: none;
 }
 
+/* .konijnenkunst {
+  height: 50px;
+  width: 50px;
+} */
+
+/* happen-knop */
+
 .happen {
   background: purple;
   display: table;
@@ -382,6 +416,8 @@ footer button {
 .happen a:hover span {
   font-variation-settings: "EDPT" 100, "EHLT" 24;
 }
+
+/* like-knop */
 
 @keyframes --like-it-animation {
   0% {
