@@ -395,7 +395,7 @@ li[aria-label="like-it"] button {
 	padding:0;
 	
 	background-color:transparent;
-  border: 2px solid white;
+  border: 5px solid orchid;
 	border-radius:.25em;
 	color: transparent;
 	
@@ -442,7 +442,7 @@ li[aria-label="like-it"] {
 .tekst-boven,
 .tekst-onder {
   font-family: Rounded, sans-serif;
-  color: white;
+  color: orchid;
   font-size: 20px;
   margin: 0;
 }
@@ -454,6 +454,5 @@ li[aria-label="like-it"] {
 .tekst-onder {
   margin-left: 15px;
 }
-
 
 
