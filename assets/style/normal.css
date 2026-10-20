@@ -305,6 +305,8 @@ footer button {
   display: grid;
   grid-template-columns: 1fr 1fr;
   gap: 10px;
+  margin-top: 25px;
+  font-family: Rounded;
 }
 
 .toggle {
@@ -318,7 +320,7 @@ footer button {
 .slider {
   width: 50px;
   height: 25px;
-  background-color: black;
+  background-color: white;
   border-radius: 25px;
   position: relative;
   transition: 0.5s;
@@ -337,14 +339,12 @@ footer button {
 }
 
 .toggle input:checked + .slider {
-  background-color: pink;
+  background-color: hotpink;
 }
 
 .toggle input:checked + .slider::before {
-  transform: transalteX(25px);
+  transform: translateX(25px);
 }
-
-
 
 .toggle input {
   display: none;
