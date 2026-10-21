@@ -8,18 +8,21 @@ body{
   font-family: 'Seraphs';
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
+  background: radial-gradient(yellow, purple);
 }
 
 h1 {
   font-size: 20px;
   writing-mode: sideways-rl;
-  color: black;
+  color: yellow;
   font-variation-settings: "wght" 100, "SRFS" 60;
       font-variation-settings: "wght" 100, "SRFS" 0;
       transition:1.5s;
 
   &:hover {
     font-variation-settings: "wght" 100, "SRFS" 60;
+    margin-left: 30%;
+    rotate: -90deg;
   }
 }
 
@@ -33,6 +36,7 @@ h2 {
 
   &:hover {
     font-variation-settings: "wght" 200, "SRFS" 60;
+    margin-top: 25%;
   }
 }
 
@@ -61,7 +65,7 @@ h4 {
   text-align: center;
   margin-top: 0;
   transform: translatey(15rem);
-  color: black;
+  color: purple;
   font-variation-settings: "wght" 100, "SRFS" 30;
     transition:1s;
 
@@ -81,6 +85,7 @@ h5 {
 
   &:hover {
     font-variation-settings: "wght" 100, "SRFS" 60;
+    transform: scaleX(2.75);
   }
 }
 
@@ -98,18 +103,32 @@ h6 {
 
   &:hover {
     font-variation-settings: "wght" 100, "SRFS" 60;
+    transform: scaleY(2);
   }
 }
 
 
 p {
   font-size: 35px;
-  color: black;
+  color: yellow;
   transform: translatex(8rem)
   font-variation-settings: "wght" 200, "SRFS" 0;
-        transition: 3s;
+  transition: 3s;
 
   &:hover {
     font-variation-settings: "wght" 200, "SRFS" 60;
   }
 }
+
+p::after {
+  content: "LETITHAPPEN.";
+  opacity: 0;
+  transition: opacity 1s;
+}
+
+p:hover::after {
+  opacity: 1;
+  color: purple;
+}
+
+ 
