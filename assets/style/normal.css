@@ -130,14 +130,16 @@ h2 {
 
 h3 {
   font-family: Rounded;
-  font-size: 40px;
+  font-size: 30px;
+  max-width: 60ch;
   text-align: center;
+  margin-inline: auto;
 }
 
 h4 {
   font-family: Bubblegum;
   font-size: 30px;
-  text-align: center
+  text-align: center;
 }
 
 /* tekst over konijneneiland (met border) */
@@ -145,6 +147,7 @@ h4 {
 p {
   font-family: Rounded;
   font-size: 40px;
+  max-width: 45ch;
   border: 5px solid purple;
   border-radius: 20px;
   background-color: purple;
