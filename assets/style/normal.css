@@ -407,9 +407,14 @@ footer button {
 		font-weight:400;
 		font-variation-settings: "EDPT" 0, "EHLT" 0;
 		
-		transition-delay: calc(sibling-index() * 0.1s);
-		transition-timing-function:ease-in;
-		transition: font-variation-settings 0.3s, border-color 0.3s, border-radius 0.3s;
+		
+		
+		transition: 
+      font-variation-settings 0.3s 0s, 
+      border-color 0.3s 0s, 
+      border-radius 0.3s 0s;
+    transition-timing-function:ease-in;
+    transition-delay: calc(sibling-index() * 0.1s);
   }
 
 .happen:hover {
