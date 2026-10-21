@@ -41,6 +41,9 @@ h3 {
 p {
   font-family: Rounded;
   font-size: 20px;
+  max-width: 75ch;
+  text-align: center;
+  margin-inline: auto;
 }
 
 .homenav a {
