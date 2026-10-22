@@ -25,6 +25,11 @@ After:
 Hier is de aangepaste likeknop met meer contrast en dat maakt mijn website dus nog toegankelijker!
 
 
+Ik had ook besloten om rood te gebruiken voor bepaalde stukken tekst (in light mode), aangezien het past bij de roze achtergrond en het interessanter oogt dan gewoon zwarte tekst.
+
+<img width="1440" height="675" alt="Scherm­afbeelding 2026-10-22 om 23 17 27" src="https://github.com/user-attachments/assets/04e67852-e39b-4c6a-9efc-e8cc24c6dcc1" />
+
+
 
 ### 21 okt. Schooldag
 
