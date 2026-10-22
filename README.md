@@ -12,6 +12,15 @@ Ook de dark mode topnavigatie heb ik aangepast om te zorgen dat ik daar ook grad
 <img width="1440" height="287" alt="Scherm­afbeelding 2026-10-22 om 19 29 16" src="https://github.com/user-attachments/assets/fb8b3e78-0464-4da9-b693-32b429b49572" />
 <img width="1440" height="287" alt="Scherm­afbeelding 2026-10-22 om 19 29 21" src="https://github.com/user-attachments/assets/2e5ad042-8ca3-459e-8c22-9cefa30da34d" />
 
+Ik vond dat de likeknop niet genoeg contrast had ik light mode, want ik had besloten om voor de likeknop dezelfde kleuren te gebruiken voor zowel light mode en dark mode, maar dat bracht een probleem: in dark mode zagen de kleuren er goed uit, maar in light mode zag de likeknop er subtiel uit.
+
+Maar het is ook belangrijk, qua toegankelijkheid, om rekening te houden met kleurenblinden, die (meer) afhankelijk zijn van contrasten.
+
+<img width="145" height="175" alt="Scherm­afbeelding 2026-10-22 om 20 24 27" src="https://github.com/user-attachments/assets/35f96f10-ae9d-4009-b6a8-d834d3a49d0f" />
+
+Hier is de aangepaste likeknop met meer contrast en dat maakt mijn website dus nog toegankelijker!
+
+
 
 ### 21 okt. Schooldag
 
@@ -46,6 +55,7 @@ Gelukkig was het uiteindelijk na veel vallen en opstaan, gelukt op twee togglekn
 Ik heb de like-knop verplaatst, hij stond eerst onder de happen-knop, maar aangezien het Cookies-icoon meebeweegt als je scrollt, keek ik nog een keer goed naar de visuele hierarchie. De visuele hierarchie zou meer gebalanseerd zijn, door de symmetrie, als ik de like-knop links op het scherm zou zetten. Dus dat heb ik gedaan.
 
 <img width="1440" height="524" alt="Scherm­afbeelding 2026-10-20 om 14 04 25" src="https://github.com/user-attachments/assets/36f97bf0-7444-46b3-a7fd-58672efb74d1" />
+
 
 
 
