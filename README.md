@@ -16,6 +16,10 @@ Ik vond dat de likeknop niet genoeg contrast had ik light mode, want ik had besl
 
 Maar het is ook belangrijk, qua toegankelijkheid, om rekening te houden met kleurenblinden, die (meer) afhankelijk zijn van contrasten.
 
+Before:
+<img width="145" height="175" alt="Scherm­afbeelding 2026-10-22 om 20 29 29" src="https://github.com/user-attachments/assets/5af1c128-2d9f-4ace-8f04-5fee1398a653" />
+
+After:
 <img width="145" height="175" alt="Scherm­afbeelding 2026-10-22 om 20 24 27" src="https://github.com/user-attachments/assets/35f96f10-ae9d-4009-b6a8-d834d3a49d0f" />
 
 Hier is de aangepaste likeknop met meer contrast en dat maakt mijn website dus nog toegankelijker!
