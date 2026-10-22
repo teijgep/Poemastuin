@@ -30,7 +30,6 @@ Ik had ook besloten om rood te gebruiken voor bepaalde stukken tekst (in light m
 <img width="1440" height="675" alt="Scherm­afbeelding 2026-10-22 om 23 17 27" src="https://github.com/user-attachments/assets/04e67852-e39b-4c6a-9efc-e8cc24c6dcc1" />
 
 
-
 ### 21 okt. Schooldag
 
 Ik kwam erachter dat ik eigenlijk kleur weer terug mocht toevoegen in mijn lyric-opdracht, dus iks belsoot dat te doen! Ik had dus al animaties bij het hoveren, die het variabele font deed veranderen, maar ik besloot om nog meer animaties toe te voegen, nadat ik was geinspireerd voor het werk van mijn klasgenoten, wat was laten zien op het digibord.
