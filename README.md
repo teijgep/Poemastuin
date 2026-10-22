@@ -31,9 +31,23 @@ Ik had tijdens de deepdive van vandaag ook mijn happen-knop gefixt. De spans wer
 
 ### 20 okt. - Thuis werken
 
+Ik heb de Cookies uitgebreider gemaakt. Ik heb toggle-knoppen toegevoegd aan de Cookies, zodat de gebruiker kan kiezen om bijvoorbeeld wel data te geven aan het ene, maar niet het andere.
+
+Het coderen van twee toggleknoppen was uitdagend en dit is ook hoe het er eerst uit zag, toen ik probeerder eerst 1 toggleknop te maken:
+
+<img width="354" height="214" alt="Scherm­afbeelding 2026-10-20 om 11 20 02" src="https://github.com/user-attachments/assets/401fc8ed-97f3-4760-a703-2e746bf084a4" />
+
+Gelukkig was het uiteindelijk na veel vallen en opstaan, gelukt op twee toggleknoppen op mijn Cookies-functie te krijgen. Ik had besloten voor rondvormige toggleknoppen, aangezien het past bij de rest van de vormgeving van de website, wat ook allemaal rondvormig is.
+
+
+<img width="349" height="208" alt="Scherm­afbeelding 2026-10-20 om 11 37 25" src="https://github.com/user-attachments/assets/f215ff77-cbb7-4abc-b712-43e16c4b3796" />
+
+
 Ik heb de like-knop verplaatst, hij stond eerst onder de happen-knop, maar aangezien het Cookies-icoon meebeweegt als je scrollt, keek ik nog een keer goed naar de visuele hierarchie. De visuele hierarchie zou meer gebalanseerd zijn, door de symmetrie, als ik de like-knop links op het scherm zou zetten. Dus dat heb ik gedaan.
 
 <img width="1440" height="524" alt="Scherm­afbeelding 2026-10-20 om 14 04 25" src="https://github.com/user-attachments/assets/36f97bf0-7444-46b3-a7fd-58672efb74d1" />
+
+
 
 
 ### 19 okt. - Schooldag
