@@ -25,11 +25,16 @@ Dit is een voorbeeld van een van mijn toegevoegde hoveranimaties. De tekst verdu
 
 <img width="504" height="134" alt="Scherm­afbeelding 2026-10-22 om 19 40 18" src="https://github.com/user-attachments/assets/930441c5-8760-479d-98f4-4eec7de333f0" />
 
+Ik had tijdens de deepdive van vandaag ook mijn happen-knop gefixt. De spans werkte niet zoals ik wilde, dus de animatie had in invloed op het hele woord en ik wilde het letter per letter. Gelukkig had Sanne mijn uitgelegd, waar het probleem zat, dus dat was fijn en nu werkt de animatie zoals ik wil!
 
-
-
+<img width="504" height="134" alt="Scherm­afbeelding 2026-10-22 om 19 43 22" src="https://github.com/user-attachments/assets/71987ca0-055c-4603-98d6-8d3798faf8db" />
 
 ### 20 okt. - Thuis werken
+
+Ik heb de like-knop verplaatst, hij stond eerst onder de happen-knop, maar aangezien het Cookies-icoon meebeweegt als je scrollt, keek ik nog een keer goed naar de visuele hierarchie. De visuele hierarchie zou meer gebalanseerd zijn, door de symmetrie, als ik de like-knop links op het scherm zou zetten. Dus dat heb ik gedaan.
+
+<img width="1440" height="524" alt="Scherm­afbeelding 2026-10-20 om 14 04 25" src="https://github.com/user-attachments/assets/36f97bf0-7444-46b3-a7fd-58672efb74d1" />
+
 
 ### 19 okt. - Schooldag
 
