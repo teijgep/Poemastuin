@@ -4,6 +4,19 @@ Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door
 
 ## Learning Log
 
+### 22 okt. Thuis werken
+
+Vandaag had ik de vormgeving van mijn topnavigatie aangepast. Voor light mode had ik namelijk erg weinig contrast als je keek naar de achtergrond en de topnavigatie. Nu heb ik gekozen voor iets donkere/vibrante kleuren om meer contrast te hebben. 
+
+Ook de dark mode topnavigatie heb ik aangepast om te zorgen dat ik daar ook gradient in heb, zodat dat matcht met de vormgeving van de topnavigatie in de light mode.
+<img width="1440" height="287" alt="Scherm­afbeelding 2026-10-22 om 19 29 16" src="https://github.com/user-attachments/assets/fb8b3e78-0464-4da9-b693-32b429b49572" />
+<img width="1440" height="287" alt="Scherm­afbeelding 2026-10-22 om 19 29 21" src="https://github.com/user-attachments/assets/2e5ad042-8ca3-459e-8c22-9cefa30da34d" />
+
+
+### 21 okt. Schooldag
+
+### 20 okt. - Thuis werken
+
 ### 19 okt. - Schooldag
 
 <img width="1320" height="891" alt="Scherm­afbeelding 2026-10-19 om 18 41 01" src="https://github.com/user-attachments/assets/bf0922e9-2361-499d-bd72-fe85bd1609fa" />
