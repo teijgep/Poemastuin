@@ -8,7 +8,15 @@ html {
 	--background-button:light-dark(Crimson, Maroon);
 	--color-button:light-dark(White, White);
 
-	accent-color:light-dark(Crimson, White);
+	--accent-color:light-dark(Crimson, White);
+
+  --background-color-light: pink;
+  --background-color-dark: purple;
+  --accent-color-light: black;
+  --acent-color-dark: white;
+  --golden-accent: gold;
+  --pink-accent: #ff78d2;
+  --plum-accent: plum;
 }
 
 /* light en dark mode */
@@ -37,8 +45,8 @@ html:has([value="dark-theme"]:checked) {
 }
 
 ::selection {
-  background-color: white;
-  color: black;
+  background-color: var(--accent-color-light);
+  color: var(--accent-color-dark);
 }
 
 body {
@@ -76,42 +84,42 @@ h1 {
   background: linear-gradient(black, purple);
   background-clip: text;
   color: transparent;
-  text-shadow: 2px 2px 5px #ff78d2;
+  text-shadow: 2px 2px 5px var(--pink-accent);
 }
 
 /* light en dark mode */
 
 html:has([value="light-theme"]:checked) p {
-  color: white;
+  color: var( --acent-color-dark);
 }
 
 html:has([value="auto-theme"]:checked) h1,
 html:has([value="dark-theme"]:checked) h1 {
   background: none;
-  color: white;
+  color: var(--accent-color-dark);
 }
 
 html:has([value="light-theme"]:checked) h2 {
-  color: black;
+  color: var(--accent-color-dark);
 }
 
 html:has([value="light-theme"]:checked) h3 {
-  color: black;
+  color: var(--accent-color-dark);
 }
 
 html:has([value="light-theme"]:checked) h4 {
-  color: black;
+  color: var(--accent-color-dark);
 }
 
 html:has([value="light-theme"]:checked) .lightdarkmode{
-    border: 5px solid purple;
+    border: 5px solid var(--background-color-dark);
     border-radius: 25px;
     border-style: dotted;
 }
 
 html:has([value="auto-theme"]:checked) .lightdarkmode,
 html:has([value="dark-theme"]:checked) .lightdarkmode {
-    border: 5px solid plum;
+    border: 5px solid var(--plum-accent);
     border-radius: 25px;
     border-style: dotted;
 }
@@ -122,7 +130,7 @@ html:has([value="dark-theme"]:checked) .lightdarkmode {
 }
 
 h2 {
-  margin-top: 10px;
+  margin-top: 40px;
   font-family: Rounded;
   font-size: 50px;
   text-align: center;
@@ -188,7 +196,7 @@ html:has([value="light-theme"]:checked) .homepagekonijn {
     gap: 20px;
 
     padding: 20px;
-    border: 5px solid purple;
+    border: 5px solid var(--background-color-dark);
     border-width: 15px;
     border-radius: 20px;
     animation: rainbow 10s infinite;
@@ -213,10 +221,11 @@ html:has([value="light-theme"]:checked) .homepagekonijn {
 p {
   font-family: Rounded;
   font-size: 40px;
+  color: var(--accent-color-dark);
   max-width: 45ch;
-  border: 5px solid purple;
+  border: 5px solid var(--background-color-dark);
   border-radius: 20px;
-  background-color: purple;
+  background-color: var(--background-color-dark);
 }
 
 .paragraaf1, .paragraaf2 {
@@ -230,15 +239,15 @@ p {
 }
 
   @keyframes borderanimatie {
-    0% { border-color: white;
+    0% { border-color: var(--accent-color-dark);
     }
-    25% { border-color: purple;
+    25% { border-color: var(--background-color-dark);
     }
-    50% {border-color: white;
+    50% {border-color: var(--accent-color-dark);
     }
-    75% {border-color: purple;
+    75% {border-color: var(--background-color-dark);
     }
-    100% {border-color: white;
+    100% {border-color: var(--accent-color-dark);
     }
   }
 
@@ -254,17 +263,31 @@ p {
 
 .topnav a {
   border-radius: 40px;
-  background-image:
-  	radial-gradient(
-			pink,
-      #cb8aeb
-		);
-  color: white;
+  color: var(--accent-color-dark);
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
   font-family: Bubblegum;
   font-size: 17px;
+}
+
+html:has([value="light-theme"]:checked) .topnav a {
+  color: white;
+    background-image:
+  	radial-gradient(
+      #cb8aeb,
+			hotpink
+		);
+}
+
+html:has([value="dark-theme"]:checked) .topnav a {
+  color: white;
+    background-image:
+  	radial-gradient(
+			hotpink,
+      pink
+		);
+      border-radius: 40px;
 }
 
 .topnav a:hover {
@@ -273,8 +296,8 @@ p {
 }
 
 .topnav a.active {
-  background-color: plum;
-  color: white;
+  background-color: var(--plum-accent);
+  color: var(--accent-color-dark);
 }
 
 img {
@@ -291,7 +314,7 @@ dialog {
   width: 300px;
   border: none;
   border-radius: 15px;
-  box-shadow: 0 5px 20px purple;
+  box-shadow: 0 5px 20px var(--background-color-dark);
 }
 
 dialog p {
@@ -364,7 +387,7 @@ footer button {
 .slider {
   width: 50px;
   height: 25px;
-  background-color: pink;
+  background-color: var(--background-color-light);
   border-radius: 25px;
   position: relative;
   transition: 0.5s;
@@ -374,7 +397,7 @@ footer button {
   content: "";
   width: 20px;
   height: 20px;
-  background-color: purple;
+  background-color: var(--background-color-dark);
   border-radius: 25px;
   position: absolute;
   left: 3px;
@@ -402,7 +425,7 @@ footer button {
 /* happen-knop */
 
 .happen {
-  background: purple;
+  background: var(--background-color-dark);
   display: table;
   padding: 10px;
   border-radius: 30px;
@@ -453,17 +476,17 @@ li[aria-label="like-it"] button {
 	padding:0;
 	
 	background-color:transparent;
-  border: 5px solid orchid;
+  border: 5px solid magenta;
 	border-radius:.25em;
 	color: transparent;
 	
 	line-height:1em;
 	font-size:2.5em;
 
-	-webkit-text-stroke-width:.05em;
-  -webkit-text-stroke-color:gold;
+	-webkit-text-stroke-width:.075em;
+  -webkit-text-stroke-color:magenta;
 
-	outline-color:goldenrod;
+	outline-color:black;
 }
 
 li[aria-label="like-it"] button.liked {
@@ -473,7 +496,7 @@ li[aria-label="like-it"] button.liked {
 	animation-iteration-count:2;
 	animation-fill-mode:forwards;
 	
-  background: gold;
+  background: magenta;
   background-clip: text;
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
@@ -500,7 +523,7 @@ li[aria-label="like-it"] {
 .tekst-boven,
 .tekst-onder {
   font-family: Rounded, sans-serif;
-  color: orchid;
+  color: magenta;
   font-size: 20px;
   margin: 0;
 }
