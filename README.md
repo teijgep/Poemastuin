@@ -56,7 +56,7 @@ Top 3 dingen, die ik ga aanpassen:
 2. Witruimtes aan buitenkant verbeteren
 3. Knoppen leesbaar maken voor screenreader
 
---------------------------------------------------------------------
+----------------------------------------------------------------------------
 
 1. Cookies toggleknoppen in light mode goed zichtbaar maken
 
