@@ -87,7 +87,6 @@ After:
 <img width="1440" height="859" alt="Scherm­afbeelding 2026-10-21 om 11 57 58" src="https://github.com/user-attachments/assets/ea712b22-7681-47fb-a545-38e0ff5500b5" />
 
 
-
 Before:
 <img width="1440" height="859" alt="Scherm­afbeelding 2026-10-21 om 11 55 32" src="https://github.com/user-attachments/assets/3f2005e8-2dc2-4580-920f-d10d3abc842d" />
 
