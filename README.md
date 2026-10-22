@@ -15,6 +15,20 @@ Ook de dark mode topnavigatie heb ik aangepast om te zorgen dat ik daar ook grad
 
 ### 21 okt. Schooldag
 
+Ik kwam erachter dat ik eigenlijk kleur weer terug mocht toevoegen in mijn lyric-opdracht, dus iks belsoot dat te doen! Ik had dus al animaties bij het hoveren, die het variabele font deed veranderen, maar ik besloot om nog meer animaties toe te voegen, nadat ik was geinspireerd voor het werk van mijn klasgenoten, wat was laten zien op het digibord.
+
+<img width="1440" height="859" alt="Scherm­afbeelding 2026-10-21 om 12 19 49" src="https://github.com/user-attachments/assets/05eeafec-d192-4fc1-b3ae-6734a2ed200c" />
+
+<img width="1440" height="852" alt="Scherm­afbeelding 2026-10-22 om 19 39 26" src="https://github.com/user-attachments/assets/a9ded588-0e90-4428-90e1-442c897f4fab" />
+
+Dit is een voorbeeld van een van mijn toegevoegde hoveranimaties. De tekst verdubbeld, maar in contrasterende kleuren; ik vond het persoonlijk erg passen bij de lyrics, aangezien "Let it happen" als quote meerdere interpretaties kan hebben en zelfs tegenstelde interpretaties.
+
+<img width="504" height="134" alt="Scherm­afbeelding 2026-10-22 om 19 40 18" src="https://github.com/user-attachments/assets/930441c5-8760-479d-98f4-4eec7de333f0" />
+
+
+
+
+
 ### 20 okt. - Thuis werken
 
 ### 19 okt. - Schooldag
