@@ -70,16 +70,6 @@ Before:
 After:
 <img width="1440" height="516" alt="Scherm­afbeelding 2026-10-22 om 22 18 06" src="https://github.com/user-attachments/assets/0a73666b-d675-44ef-9597-b1b223e9613b" />
 
-3. Knoppen leesbaar maken voor screenreader
-
-
-Before:
-<img width="781" height="204" alt="Scherm­afbeelding 2026-10-22 om 23 01 24" src="https://github.com/user-attachments/assets/77a68685-04a9-4e3e-bc3d-7a80692becde" />
-
-After:
-<img width="781" height="204" alt="Scherm­afbeelding 2026-10-22 om 23 01 03" src="https://github.com/user-attachments/assets/cefe0d3b-1983-463b-8e25-7c5d5614cdce" />
-
-
 Before:
 <img width="1440" height="859" alt="Scherm­afbeelding 2026-10-21 om 11 55 24" src="https://github.com/user-attachments/assets/8147381f-f3a3-47d0-9beb-df91bf7fd9c4" />
 
@@ -93,8 +83,31 @@ Before:
 After:
 <img width="1440" height="859" alt="Scherm­afbeelding 2026-10-21 om 11 58 08" src="https://github.com/user-attachments/assets/ecd90685-a620-42ba-be0f-3adcf81e1617" />
 
+3. Knoppen leesbaar maken voor screenreader
 
+Before:
 
+<img width="619" height="143" alt="Scherm­afbeelding 2026-10-22 om 23 11 59" src="https://github.com/user-attachments/assets/ea5d082c-9949-4a70-bd85-effe9413a020" />
+
+After:
+
+<img width="678" height="143" alt="Scherm­afbeelding 2026-10-22 om 23 11 44" src="https://github.com/user-attachments/assets/50f09d31-93e0-47f0-a9b3-9b20f8a259a0" />
+
+Before:
+
+<img width="1212" height="139" alt="Scherm­afbeelding 2026-10-22 om 23 08 04" src="https://github.com/user-attachments/assets/a3e26b49-4add-4a79-af7c-4b1573433809" />
+
+After:
+
+<img width="1212" height="139" alt="Scherm­afbeelding 2026-10-22 om 23 07 47" src="https://github.com/user-attachments/assets/1e357dca-c61a-42b6-b790-c8f47bbe76c9" />
+
+Before:
+
+<img width="781" height="204" alt="Scherm­afbeelding 2026-10-22 om 23 01 24" src="https://github.com/user-attachments/assets/77a68685-04a9-4e3e-bc3d-7a80692becde" />
+
+After:
+
+<img width="781" height="204" alt="Scherm­afbeelding 2026-10-22 om 23 01 03" src="https://github.com/user-attachments/assets/cefe0d3b-1983-463b-8e25-7c5d5614cdce" />
 
 
 
