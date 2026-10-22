@@ -70,6 +70,15 @@ Before:
 After:
 <img width="1440" height="516" alt="Scherm­afbeelding 2026-10-22 om 22 18 06" src="https://github.com/user-attachments/assets/0a73666b-d675-44ef-9597-b1b223e9613b" />
 
+3. Knoppen leesbaar maken voor screenreader
+
+
+Before:
+<img width="781" height="204" alt="Scherm­afbeelding 2026-10-22 om 23 01 24" src="https://github.com/user-attachments/assets/77a68685-04a9-4e3e-bc3d-7a80692becde" />
+
+After:
+<img width="781" height="204" alt="Scherm­afbeelding 2026-10-22 om 23 01 03" src="https://github.com/user-attachments/assets/cefe0d3b-1983-463b-8e25-7c5d5614cdce" />
+
 
 Before:
 <img width="1440" height="859" alt="Scherm­afbeelding 2026-10-21 om 11 55 24" src="https://github.com/user-attachments/assets/8147381f-f3a3-47d0-9beb-df91bf7fd9c4" />
