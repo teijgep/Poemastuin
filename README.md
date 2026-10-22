@@ -140,6 +140,11 @@ Ik heb de like-knop verplaatst, hij stond eerst onder de happen-knop, maar aange
 <img width="1440" height="524" alt="Scherm­afbeelding 2026-10-20 om 14 04 25" src="https://github.com/user-attachments/assets/36f97bf0-7444-46b3-a7fd-58672efb74d1" />
 
 
+Als ik nog meer tijd heb in het weekend, wil ik graag nog op de homepage kunst zetten. Namelijk mijn favoriete konijnenkunst, zoals schilderijen etc., waar konijnen in de voorstelling zitten.
+
+<img width="603" height="201" alt="Scherm­afbeelding 2026-10-22 om 23 27 22" src="https://github.com/user-attachments/assets/1eac618a-7781-42f9-a71d-31368d87f41f" />
+
+<img width="230" height="92" alt="Scherm­afbeelding 2026-10-22 om 23 28 04" src="https://github.com/user-attachments/assets/b2ac3de0-6445-4b9a-830a-4091af4a18d4" />
 
 
 
