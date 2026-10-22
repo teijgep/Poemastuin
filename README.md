@@ -38,6 +38,59 @@ Dit is een voorbeeld van een van mijn toegevoegde hoveranimaties. De tekst verdu
 
 <img width="504" height="134" alt="Scherm­afbeelding 2026-10-22 om 19 40 18" src="https://github.com/user-attachments/assets/930441c5-8760-479d-98f4-4eec7de333f0" />
 
+Ik kreeg feedback van twee klasgenoten: Ella en Justin.
+
+<img width="649" height="900" alt="Scherm­afbeelding 2026-10-22 om 22 01 40" src="https://github.com/user-attachments/assets/8860e7f6-0eea-4e9c-886a-25673346a584" />
+
+<img width="1219" height="900" alt="Scherm­afbeelding 2026-10-22 om 22 02 07" src="https://github.com/user-attachments/assets/5d90c914-1c6f-4c35-a676-e08fd9a0b572" />
+
+Ik heb de feedback bekeken en een top 3 gemaakt van feedback, die ik ga verwerken:
+
+Top 3 dingen, die ik ga aanpassen:
+
+1. Cookies toggleknoppen in light mode goed zichtbaar maken
+2. Witruimtes aan buitenkant verbeteren
+3. Knoppen leesbaar maken voor screenreader
+
+--------------------------------------------------------------------
+
+1. Cookies toggleknoppen in light mode goed zichtbaar maken
+
+Before:
+<img width="350" height="216" alt="Scherm­afbeelding 2026-10-22 om 22 12 30" src="https://github.com/user-attachments/assets/3a89f411-ca36-409e-8933-8daff515389f" />
+
+After:
+<img width="350" height="216" alt="Scherm­afbeelding 2026-10-22 om 22 09 38" src="https://github.com/user-attachments/assets/0e617b4f-86a2-4c67-b495-1ba86e062aec" />
+
+2. Witruimtes aan buitenkant verbeteren
+
+Before:
+<img width="1440" height="859" alt="Scherm­afbeelding 2026-10-21 om 11 59 35" src="https://github.com/user-attachments/assets/677c49f5-652a-47a6-b771-8f7ddf46d6dd" />
+
+After:
+<img width="1440" height="516" alt="Scherm­afbeelding 2026-10-22 om 22 18 06" src="https://github.com/user-attachments/assets/0a73666b-d675-44ef-9597-b1b223e9613b" />
+
+
+Before:
+<img width="1440" height="859" alt="Scherm­afbeelding 2026-10-21 om 11 55 24" src="https://github.com/user-attachments/assets/8147381f-f3a3-47d0-9beb-df91bf7fd9c4" />
+
+After:
+<img width="1440" height="859" alt="Scherm­afbeelding 2026-10-21 om 11 57 58" src="https://github.com/user-attachments/assets/ea712b22-7681-47fb-a545-38e0ff5500b5" />
+
+
+
+Before:
+<img width="1440" height="859" alt="Scherm­afbeelding 2026-10-21 om 11 55 32" src="https://github.com/user-attachments/assets/3f2005e8-2dc2-4580-920f-d10d3abc842d" />
+
+After:
+<img width="1440" height="859" alt="Scherm­afbeelding 2026-10-21 om 11 58 08" src="https://github.com/user-attachments/assets/ecd90685-a620-42ba-be0f-3adcf81e1617" />
+
+
+
+
+
+
+
 Ik had tijdens de deepdive van vandaag ook mijn happen-knop gefixt. De spans werkte niet zoals ik wilde, dus de animatie had in invloed op het hele woord en ik wilde het letter per letter. Gelukkig had Sanne mijn uitgelegd, waar het probleem zat, dus dat was fijn en nu werkt de animatie zoals ik wil!
 
 <img width="504" height="134" alt="Scherm­afbeelding 2026-10-22 om 19 43 22" src="https://github.com/user-attachments/assets/71987ca0-055c-4603-98d6-8d3798faf8db" />
