@@ -165,6 +165,11 @@ Feedback van Laura:
 
 ### Herfstreces
 
+Hier zijn schetsen, die ik heb gemaakt. Dit zijn animaties, die ik nog wil toevoegen.
+
+<img width="668" height="900" alt="Scherm­afbeelding 2026-10-23 om 09 08 35" src="https://github.com/user-attachments/assets/d4a76220-c3bf-46a9-9188-fd390db37981" />
+
+
 Tijdens de hersftreces heb ik de nieuw vergaarde kennis uit de animaties deepdive toegepast.
 
 Ik wilde graag een functie, waar mensen de site konden "liken". Hieronder zie je hoe ik bezig die functie te implementeren met werkende animatie.
