@@ -88,7 +88,7 @@ Een eiland met een donker verleden en schattig heden. Een speciaal verhaal is he
 
   <footer>
       <nav>
-        <button commandfor="cookieModal" command="show-modal">
+        <button commandfor="cookieModal" command="show-modal" aria-label="Cookies-icoon">
           <div class="Cookiesicoon"><img src="images/koekjeskonijn2.PNG"></div>
         </button>
       </nav>
@@ -99,17 +99,17 @@ Een eiland met een donker verleden en schattig heden. Een speciaal verhaal is he
         <p lang="en">
           We gebruiken Cookies om data te verzamelen, via Github en de domeinboom ("digitaaltuintje.nl"). Als u de Cookies accepteert, bent u het eens met de voorwaardes van Cookies-beleid.
         </p>
-        <button onclick="setCookie()">Accepteer</button>
-        <button onclick="unsetCookie()">Afwijzen</button>
+        <button onclick="setCookie()" aria-label="Accepteer alle geselecteerde Cookies">Accepteer</button>
+        <button onclick="unsetCookie()" aria-label="Wijs alle Cookies af">Afwijzen</button>
         <div class="toggles">
   <label class="toggle">
-    <input type="checkbox">
+    <input type="checkbox" aria-label="Toggle deze knop aan om Cookies te accepteren voor Github.">
     <span class="slider"></span>
     Github
   </label>
 
   <label class="toggle">
-    <input type="checkbox">
+    <input type="checkbox" aria-label="Toggle deze knop aan om Cookies voor de Domeinboom te accepteren.">
     <span class="slider"></span>
     Domeinboom
   </label>
