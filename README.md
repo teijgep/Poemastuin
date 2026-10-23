@@ -7,9 +7,8 @@ Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door
 
 ### 23 okt. - Schooldag
 
-
+Dit is de feedback, die ik heb gekregen van Barbara en een werkstudent:
 <img width="1069" height="420" alt="Scherm­afbeelding 2026-10-23 om 12 00 07" src="https://github.com/user-attachments/assets/81a4ea1c-fafb-475d-a71d-591831bebc37" />
-
 
 
 ### 22 okt. Thuis werken
