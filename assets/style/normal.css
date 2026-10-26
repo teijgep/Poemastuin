@@ -196,7 +196,7 @@ html:has([value="light-theme"]:checked) .homepagekonijn {
     border: 5px solid var(--background-color-dark);
     border-width: 15px;
     border-radius: 20px;
-    animation: rainbow 10s infinite;
+    animation: borderanimatie 10s infinite;
   }
 
 .content img {
@@ -233,19 +233,19 @@ p {
 /* animatie van border */
 
   .borderanimatie {
-  animation: rainbow 2s infinite;
+  animation: borderanimatie 2s infinite;
 }
 
   @keyframes borderanimatie {
-    0% { border-color: var(--accent-color-dark);
+    0% { border-color: purple;
     }
-    25% { border-color: var(--background-color-dark);
+    25% { border-color: var(--pink-accent);
     }
-    50% {border-color: var(--accent-color-dark);
+    50% {border-color: var(--plum-accent);
     }
-    75% {border-color: var(--background-color-dark);
+    75% {border-color: pink;
     }
-    100% {border-color: var(--accent-color-dark);
+    100% {border-color: purple;
     }
   }
 

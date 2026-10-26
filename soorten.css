@@ -3,12 +3,12 @@ html {
 }
 
 @font-face {
-  font-family: LEMONMILK-Regular;
-  src: url("assets/style/LEMONMILK-Regular.otf");
+  font-family: Rounded;
+  src: url("assets/style/Rounded\ Elegance\ Regular.otf");
 }
 
 body {
-font-family: LEMONMILK-Regular;
+font-family: Rounded;
 font-size: 50px;
 text-align: center;
 }
