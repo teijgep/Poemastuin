@@ -279,6 +279,11 @@ li[aria-label="ritme"]:hover div {
   }
 }
 
+a:focus-visible,
+button:focus-visible {
+  outline: 5px solid var(--yellow-accent);
+}
+
 /*
 li[aria-label="springen"] div.excited {
   animation-name:--dblclick-animation;

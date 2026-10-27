@@ -563,4 +563,7 @@ li[aria-label="like-it"] {
   margin-left: 15px;
 }
 
-
+a:focus-visible,
+button:focus-visible {
+  outline: 5px solid var(--yellow-accent);
+}

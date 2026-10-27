@@ -96,3 +96,8 @@ ul {
   grid-template-columns: 1fr 1fr 1fr;
   }
 }
+
+a:focus-visible,
+button:focus-visible {
+  outline: 5px solid var(--yellow-accent);
+}
