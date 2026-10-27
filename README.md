@@ -42,6 +42,13 @@ Toegvoegd. (Kan het niet goed screenshotten.)
 
 ### 23 okt. - Schooldag
 
+Retrospect:
+
+<img width="1184" height="900" alt="Scherm­afbeelding 2026-10-27 om 22 13 26" src="https://github.com/user-attachments/assets/9fc357f6-27cf-4af2-b49f-db0d55bb5ad5" />
+<img width="1184" height="900" alt="Scherm­afbeelding 2026-10-27 om 22 13 48" src="https://github.com/user-attachments/assets/91085841-da81-4d78-a468-17b448cf9fed" />
+<img width="1184" height="900" alt="Scherm­afbeelding 2026-10-27 om 22 14 01" src="https://github.com/user-attachments/assets/7b3a9248-c138-4b75-8027-848320005f90" />
+
+
 Dit is de feedback, die ik heb gekregen van Barbara en een werkstudent:
 <img width="1069" height="420" alt="Scherm­afbeelding 2026-10-23 om 12 00 07" src="https://github.com/user-attachments/assets/81a4ea1c-fafb-475d-a71d-591831bebc37" />
 
