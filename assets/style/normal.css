@@ -237,6 +237,7 @@ p {
 }
 
 /* animatie van border */
+/* Inpiratie uit en kennis toegepast uit: CSS animations. (n.d.). W3Schools. https://www.w3schools.com/css/css3_animations.asp */
 
   .borderanimatie {
   animation: borderanimatie 2s infinite;
@@ -394,6 +395,9 @@ footer button {
 }
 
 /* toggles van Cookies */
+/* Inspiratie en kennis gebruikt van:
+How to create a toggle switch. (n.d.). W3Schools. https://www.w3schools.com/howto/howto_css_switch.asp en
+Bubb, J. (2020, October 22). Create a simple On/Off slide toggle with CSS. DEV Community. https://dev.to/codebubb/create-a-simple-on-off-slide-toggle-with-css-db8 */
 
 .toggles {
   display: grid;

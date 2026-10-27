@@ -127,6 +127,8 @@ p {
   }
 }
 
+/* Inspiratie uit deep dive van Sanne */
+
 li[aria-label="ritme"] div {
 	width:1em;
 	height:1em;
@@ -231,6 +233,8 @@ li[aria-label="ritme"]:hover div {
   transform: scale(1.35);
   rotate: 30deg;
 }
+
+/* Inpiratie uit en kennis toegepast uit: CSS animations. (n.d.). W3Schools. https://www.w3schools.com/css/css3_animations.asp */
 
 @keyframes fietsen {
 
