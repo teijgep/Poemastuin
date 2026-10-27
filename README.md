@@ -357,6 +357,16 @@ flush-right = right-aligned
 
 ### 2 okt. - Schooldag
 
+Retrospect:
+
+<img width="1184" height="900" alt="Scherm­afbeelding 2026-10-27 om 22 58 40" src="https://github.com/user-attachments/assets/a73e2ca1-0294-4fbd-a97d-cf8413fd9721" />
+<img width="1184" height="900" alt="Scherm­afbeelding 2026-10-27 om 22 58 49" src="https://github.com/user-attachments/assets/42532e8e-a452-4d20-9724-980193ba6aee" />
+<img width="1184" height="900" alt="Scherm­afbeelding 2026-10-27 om 22 58 59" src="https://github.com/user-attachments/assets/18b87ff0-79fc-4fee-ab0f-4ee68b584e1b" />
+
+Titel: Springen en winnen
+Toelichting: Ik had wat uitdagingen deze sprint, maar ik probeer toch de eindstreep te halen. Soms moet je daar meer moeite voor doen door bijvoorbeeld onverwachtse uitdagingen.
+
+
 Feedback van Vasilis:
 
 -focus states vormgeven
