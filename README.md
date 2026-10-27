@@ -773,7 +773,10 @@ Vandaag had ik mijn eerste deepdives: typografie en MMD (etc.).
 
 Wat ik heb gemaakt bij typografie:
 
+<img width="617" height="449" alt="Scherm­afbeelding 2026-10-27 om 23 07 47" src="https://github.com/user-attachments/assets/f46873b3-9cd3-4280-8982-0fa3a32a027d" />
+<img width="1041" height="722" alt="Scherm­afbeelding 2026-10-27 om 23 08 17" src="https://github.com/user-attachments/assets/b4aacf5a-2fc6-4a4f-8464-f84881333c34" />
 <img width="1440" height="807" alt="Scherm­afbeelding 2026-10-27 om 13 51 49" src="https://github.com/user-attachments/assets/bd231722-760c-452a-a375-8e45594b1086" />
+
 
 Wat ik bij MMD (etc.). heb gemaakt:
 
