@@ -634,6 +634,9 @@ Hier was ik bezig met de deepdive:
 
 <img width="1440" height="748" alt="Scherm­afbeelding 2026-10-27 om 14 12 24" src="https://github.com/user-attachments/assets/fcfaf342-31f5-4cd2-837a-5807e9dc7f20" />
 
+<img width="1440" height="695" alt="Scherm­afbeelding 2026-10-27 om 14 21 39" src="https://github.com/user-attachments/assets/469dbbb3-5038-45de-b6e0-caab6acba655" />
+
+
 
 ### 9 sept. - Online les
 
