@@ -3,11 +3,17 @@
 Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door studenten worden gemaakt.
 
 bronnen:
+
 CSS animations. (n.d.). W3Schools. https://www.w3schools.com/css/css3_animations.asp
+
 CSS Grid Layout. (n.d.). W3Schools. https://www.w3schools.com/css/css_grid.asp
+
 How to create a toggle switch. (n.d.). W3Schools. https://www.w3schools.com/howto/howto_css_switch.asp
+
 CSS gradients. (n.d.). W3Schools. https://www.w3schools.com/css/css3_gradients.asp
+
 Bubb, J. (2020, October 22). Create a simple On/Off slide toggle with CSS. DEV Community. https://dev.to/codebubb/create-a-simple-on-off-slide-toggle-with-css-db8
+
 GeeksforGeeks. (2023, May 26). What are Accessibility Concerns in CSS ? GeeksforGeeks. https://www.geeksforgeeks.org/css/what-are-accessibility-concerns-in-css/
 
 ## Learning Log
