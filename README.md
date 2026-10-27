@@ -353,6 +353,7 @@ Ik heb vandaag ook gezorgd dat de animaties niet afspelen, als iemand "reduce mo
 
 ### 30 sept. - Schooldag
 
+WCAG checklist afgenomen (met Amy):
 <img width="602" height="874" alt="Scherm­afbeelding 2026-10-27 om 16 09 44" src="https://github.com/user-attachments/assets/c9d2c19b-fddd-4d5e-890d-88138efc12dd" />
 <img width="622" height="874" alt="Scherm­afbeelding 2026-10-27 om 16 09 25" src="https://github.com/user-attachments/assets/1f4f9e94-3b49-4a1c-b4a6-3c60841af8bd" />
 <img width="661" height="874" alt="Scherm­afbeelding 2026-10-27 om 16 09 59" src="https://github.com/user-attachments/assets/89e74721-60e2-4dd3-bf33-883a985af57f" />
@@ -433,10 +434,8 @@ Ja, de alt teksten zorgen voor nog meer creatieve uitlaat, want het is tof om le
 Na school:
 
 <img width="105" height="185" alt="Scherm­afbeelding 2026-10-02 om 01 09 12" src="https://github.com/user-attachments/assets/2171e6c0-4e26-4630-afb5-35e3f0b332c5" />
-Ik heb een Cookies-konijn getekend voor de Cookies-functie.
 
-
-
+Dit is mijn Cookies-knop uitgewerkt. Ik wilde een illustratie als knop, zodat het de gebruiker zou "verleiden" om het Cookies-menu te openen (door op de tekening te klikken) en op die manier dus de Cookies te gaan accepteren. Ik zie het als een soort omgekeerde dark pattern, aangezien de gebruiker zelf het Cookies-menu opent, uit een soort natuurlijke nieuwsgierigheid. De gebruiker wordt dus niet geforceerd om Cookies te accepteren.
 
 
 ### 29 sept. - Thuis werken
