@@ -451,6 +451,23 @@ Neurodiversiteit (dyslexie, epilepsie etc.) , spierproblemen, oog- en gehoorprob
 Noem drie manieren om door een website te navigeren met jouw screenreader.
 Met de tab-toets, via koppen (headings) en met links.
 
+Hieronder zie je schetsen, die ik heb gemaakt voor mijn Human Consent Component:
+
+<img width="472" height="709" alt="Scherm­afbeelding 2026-10-27 om 17 03 09" src="https://github.com/user-attachments/assets/093420b1-f7a4-4a2c-82b2-b9f2e36e9fea" />
+<img width="460" height="693" alt="Scherm­afbeelding 2026-10-27 om 17 03 34" src="https://github.com/user-attachments/assets/dd66a42c-d575-499a-ac27-f01d4d1adedf" />
+
+1. Ik vond concrete accepteer/afwijs-knoppen een interessant concept en best passend bij mijn website, waar ik wel meer visuele vormgeving gebruik.
+
+2. Deze tabs, die je kan uitklappen, zijn zeer handig om bijvoorbeeld meer informatie te geven over de verschillende plekken waar je Cookies-data naar toe gaat.
+
+3. Ik vond dit de interessante schets, aangezien de toggle-switches echt een gevoel geven van controle voor de gebruiker. Het is ook handig, aangezien je handmatig kan kiezen, waar je data naar toe mag gaan.
+
+4. Hier gebruik ik toggle-switches in combinatie met de kruis-/vink-knoppen. Deze schets oogt heel direct en concreet.
+
+5. Hier gebruik ik vierkante checkboxes (de hoeken zijn rondvormig om de rest van de vormgeving te machten. Ik gebruik vierkante checkboxes, ipv ronde checkboxes, aangezien ik had geleerd dat vierkante checkboxes worden gebruikt als de gebruiker meer keuzes kan kiezen tegelijk en ronde checkboxes zijn voornamelijk voor 1 keuze tegelijk.
+In dit scenario moet je meerdere keuzes tegelijk kunnen maken, als de gebruiker dat wil.
+
+
 ### 25 sept. - Schooldag
 
 Vandaag ben ik bezig met de HTML website (te) valideren.
