@@ -306,11 +306,13 @@ Mijn schetsen voor de liedtekst-opdracht:
 <img width="1127" height="900" alt="Scherm­afbeelding 2026-10-09 om 09 40 46" src="https://github.com/user-attachments/assets/36f846b0-5025-445a-a27e-bf408de20ea1" />
 <img width="1335" height="900" alt="Scherm­afbeelding 2026-10-09 om 09 40 05" src="https://github.com/user-attachments/assets/06ebb46f-03e3-4769-a086-f6ababf6e4fb" />
 
-Ik heb veel gefocust op het woord "around", ik vond het namelijk wel potentie hebben om er nadruk op te leggen.
+Ik heb veel gefocust op het woord "around", ik vond het namelijk wel potentie hebben om er nadruk op te leggen. Ik heb geexperimenteerd met de visuele hierarchie en dus de plaatsing van de woorden en letters.
 
 Schets, die ik wil uitwerken:
 
 <img width="607" height="899" alt="Scherm­afbeelding 2026-10-09 om 09 53 53" src="https://github.com/user-attachments/assets/798bee7e-f93d-4444-bead-8bd707eeda9c" />
+
+Ik vind ook echt dat "Let it happen" aan elkaar moet als 1 krachtig woord bijna. Een soort woordenmassa, die in je treft.
 
 
 
