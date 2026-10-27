@@ -437,6 +437,12 @@ Ja, de alt teksten zorgen voor nog meer creatieve uitlaat, want het is tof om le
 
 Na school:
 
+Schetsen Cookies-knop:
+<img width="884" height="654" alt="Scherm­afbeelding 2026-10-27 om 21 54 21" src="https://github.com/user-attachments/assets/b65ac3e4-0437-4aa9-950b-6df1b4a53959" />
+
+Het was moeilijk om een keuze te maken, maar ik wilde sowieso het hapje gebruiken met de twee tanden, ik vond het een grappig detail en een soort inside joke met mijzelf en natuurlijk een grap voor de oplettende websitegebruiker!
+Ik vond een happend konijn ook erg bijpassend. Alsof hij het koekje (Cookies) echt eet.
+
 <img width="105" height="185" alt="Scherm­afbeelding 2026-10-02 om 01 09 12" src="https://github.com/user-attachments/assets/2171e6c0-4e26-4630-afb5-35e3f0b332c5" />
 
 Dit is mijn Cookies-knop uitgewerkt. Ik wilde een illustratie als knop, zodat het de gebruiker zou "verleiden" om het Cookies-menu te openen (door op de tekening te klikken) en op die manier dus de Cookies te gaan accepteren. Ik zie het als een soort omgekeerde dark pattern, aangezien de gebruiker zelf het Cookies-menu opent, uit een soort natuurlijke nieuwsgierigheid. De gebruiker wordt dus niet geforceerd om Cookies te accepteren.
