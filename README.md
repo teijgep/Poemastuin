@@ -4,6 +4,16 @@ Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door
 
 ## Learning Log
 
+### 26 okt. - Schooldag
+
+Mijn gekregen stickers en feedback van de Expo:
+<img width="1410" height="900" alt="Scherm­afbeelding 2026-10-27 om 10 35 55" src="https://github.com/user-attachments/assets/1194ab25-b23e-4749-a148-2de7be58e703" />
+
+Gekregen feedback van Shakila:
+<img width="1241" height="900" alt="Scherm­afbeelding 2026-10-27 om 10 36 58" src="https://github.com/user-attachments/assets/e2a61c40-02c1-4101-a75b-f84282f733ea" />
+
+Gegeven feedback aan Shakila:
+<img width="1122" height="900" alt="Scherm­afbeelding 2026-10-27 om 10 38 55" src="https://github.com/user-attachments/assets/d15ea0fe-8b81-4f09-8d4e-d744ea14c3a8" />
 
 ### 23 okt. - Schooldag
 
