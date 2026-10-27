@@ -561,6 +561,15 @@ Ik ga nu vaker handmatig Cookies afwijzen met de toggles na deze les.
 
 ### 18 sept. - Schooldag
 
+Retrospect:
+
+<img width="1167" height="821" alt="Scherm­afbeelding 2026-10-27 om 18 48 06" src="https://github.com/user-attachments/assets/b716423f-e2eb-476d-a873-edf95894e6ab" />
+
+<img width="1182" height="883" alt="Scherm­afbeelding 2026-10-27 om 18 48 25" src="https://github.com/user-attachments/assets/09185c8f-a799-4cc5-b0b1-f3c183248f87" />
+
+<img width="1093" height="761" alt="Scherm­afbeelding 2026-10-27 om 18 47 14" src="https://github.com/user-attachments/assets/73ade195-64c7-4019-afef-8f9d2321ce84" />
+
+
 <img width="1388" height="504" alt="Screenshot 2026-09-18 at 10 29 52" src="https://github.com/user-attachments/assets/773c3f8a-fef0-4fac-b2d1-5fcffa29c23a" />
 Kleur van teksten light mode gefixt.
 
