@@ -2,7 +2,7 @@
 
 Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door studenten worden gemaakt.
 
-bronnen:
+Bronnen:
 
 CSS animations. (n.d.). W3Schools. https://www.w3schools.com/css/css3_animations.asp
 
