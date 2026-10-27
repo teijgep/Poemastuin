@@ -16,6 +16,10 @@ Bubb, J. (2020, October 22). Create a simple On/Off slide toggle with CSS. DEV C
 
 GeeksforGeeks. (2023, May 26). What are Accessibility Concerns in CSS ? GeeksforGeeks. https://www.geeksforgeeks.org/css/what-are-accessibility-concerns-in-css/
 
+Wikipedia contributors. (2026, October 8). Ōkunoshima. Wikipedia. https://en.wikipedia.org/wiki/%C5%8Ckunoshima
+
+Farmer, A. a. M. (2017, March 22). The Dark History of Japan's Rabbit Island. Smithsonian Magazine. https://www.smithsonianmag.com/travel/japan-rabbit-island-dark-history-180962631/
+
 ## Learning Log
 
 ### 26 okt. - Schooldag
