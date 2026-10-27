@@ -252,6 +252,12 @@ Ik was vandaag bezig met de deepdive Variabele fonts. Ik leerde hoe je variabele
 
 <img width="1440" height="747" alt="Scherm­afbeelding 2026-10-08 om 21 47 27" src="https://github.com/user-attachments/assets/6923dca8-22f7-40b0-8d39-738a35835206" />
 
+Ik wil de liedtekst-opdracht graag ergens op mijn site kwijt. Het komt natuurlijk niet op de homepagina. Ik wil het ook niet op andere webpagina's, dus ik ga een losse webpagina ervoor maken en daarvoor wil ik een knop ontwerpen, die ernaar leidt.
+
+Schetsen en mijn gedachten bij het bedenken van een knop, die naar de liedtekst-opdracht-webpagina leidt:
+<img width="526" height="900" alt="Scherm­afbeelding 2026-10-27 om 12 13 47" src="https://github.com/user-attachments/assets/6147c66d-3912-49c9-86fb-8eb284a1cf65" />
+
+
 <img width="349" height="133" alt="Scherm­afbeelding 2026-10-09 om 09 06 38" src="https://github.com/user-attachments/assets/84e55bba-8bf8-410f-b29b-f9810ca750e1" />
 
 Hier is de eerste versie van een knop, waarbij ik de kennis van de deepdive had toegpast. Deze knop leidt naar mijn liedtekst-opdracht. Als je over de knop hovert komt er een animatie (interactie met de knop).
