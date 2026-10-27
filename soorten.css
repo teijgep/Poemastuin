@@ -1,5 +1,19 @@
 html {
- background-color: #f5b5e0;
+   --background-color-light: pink;
+  --background-color-dark: purple;
+  --accent-color-light: black;
+  --acent-color-dark: white;
+  --yellow-accent: yellow;
+  --golden-accent: gold;
+  --pink-accent: #ff78d2;
+  --plum-accent: plum;
+  --magenta-accent: magenta;
+  --lila-accent: #cb8aeb;
+  --hot-pink-accent: hotpink;
+  --beige-accent: beige;
+  --lila-accent: #cb8aeb;
+  --pink-world-accent: #f5b5e0;
+  --gray-accent: gray;
 }
 
 @font-face {
@@ -8,21 +22,22 @@ html {
 }
 
 body {
+background-color: var(--pink-world-accent);
 font-family: Rounded;
 font-size: 50px;
 text-align: center;
 }
 
 .homenav a {
-  background-color: black;
-  color: white;
+  background-color: var(--accent-color-light);
+  color: var(--acent-color-dark);
   padding: 10px 20px;
   text-decoration: none;
   display: inline-block;
 }
 
 .homenav a:hover {
-  background-color: gray;
+  background-color: var(--gray-accent);
 }
 
 .active {
@@ -37,7 +52,7 @@ img {
 
 img:hover {
   transform: scale(1.2);
-  box-shadow: 10px 10px 20px black;
+  box-shadow: 10px 10px 20px var(--accent-color-light);
 }
 
 details {
@@ -56,10 +71,10 @@ summary {
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
-  background-color: #f5b5e0;
+  background-color: var(--pink-world-accent);
   padding: 20px;
   width: 250px;
-  box-shadow: 0 5px 15px gray;
+  box-shadow: 0 5px 15px var(--gray-accent);
   border-radius: 10px;
 }
 

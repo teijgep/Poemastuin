@@ -14,9 +14,15 @@ html {
   --background-color-dark: purple;
   --accent-color-light: black;
   --acent-color-dark: white;
+  --yellow-accent: yellow;
   --golden-accent: gold;
   --pink-accent: #ff78d2;
   --plum-accent: plum;
+  --magenta-accent: magenta;
+  --lila-accent: #cb8aeb;
+  --hot-pink-accent: hotpink;
+  --beige-accent: beige;
+  --lila-accent: #cb8aeb;
 }
 
 /* light en dark mode */
@@ -76,7 +82,7 @@ h1 {
   font-family: Bubblegum;
   font-size: 50px;
   text-align: center;
-  background: linear-gradient(black, purple);
+  background: linear-gradient(var(--accent-color-light), var(--background-color-dark));
   background-clip: text;
   color: transparent;
   text-shadow: 2px 2px 5px var(--pink-accent);
@@ -237,15 +243,15 @@ p {
 }
 
   @keyframes borderanimatie {
-    0% { border-color: purple;
+    0% { border-color: var(--background-color-dark);
     }
     25% { border-color: var(--pink-accent);
     }
     50% {border-color: var(--plum-accent);
     }
-    75% {border-color: pink;
+    75% {border-color: var(--background-color-light);
     }
-    100% {border-color: purple;
+    100% {border-color: var(--background-color-dark);
     }
   }
 
@@ -270,48 +276,48 @@ p {
 }
 
 html:has([value="auto-theme"]:checked) .topnav a {
-  color: white;
+  color: var(--acent-color-dark);
     background-image:
   	radial-gradient(
-			hotpink,
-      pink
+			var(--hot-pink-accent),
+      var(--background-color-light)
 		);
       border-radius: 40px;
 }
 
 html:has([value="light-theme"]:checked) .topnav a {
-  color: white;
+  color: var(--acent-color-dark);
     background-image:
   	radial-gradient(
-      #cb8aeb,
-			hotpink
+      var(--lila-accent),
+			var(--hot-pink-accent)
 		);
 }
 
 html:has([value="dark-theme"]:checked) .topnav a {
-  color: white;
+  color: var(--acent-color-dark);
     background-image:
   	radial-gradient(
-			hotpink,
-      pink
+			var(--hot-pink-accent),
+      var(--background-color-light)
 		);
       border-radius: 40px;
 }
 
 html:has([value="auto-theme"]:checked) a:hover {
-  background: purple;
-  color: pink;
+  background: var(--background-color-dark);
+  color: var(--background-color-light);
 }
 
 html:has([value="light-theme"]:checked) a:hover {
-  background: purple;
-  color: beige;
+  background: var(--background-color-dark);
+  color: var(--beige-accent);
   transition: .4s ease-in-out;
 }
 
 html:has([value="dark-theme"]:checked) a:hover {
-  background: purple;
-  color: pink;
+  background: var(--background-color-dark);
+  color: var(--background-color-light);
   transition: .4s ease-in-out;
 }
 
@@ -427,7 +433,7 @@ footer button {
 }
 
 .toggle input:checked + .slider {
-  background-color: magenta;
+  background-color: var(--magenta-accent);
 }
 
 .toggle input:checked + .slider::before {
@@ -470,7 +476,7 @@ footer button {
   }
 
 .happen:hover {
-  background: linear-gradient(yellow, purple);
+  background: linear-gradient(var(--yellow-accent), var(--background-color-dark));
 }
 
 .happen a:hover span {
@@ -497,7 +503,7 @@ li[aria-label="like-it"] button {
 	padding:0;
 	
 	background-color:transparent;
-  border: 5px solid magenta;
+  border: 5px solid var(--magenta-accent);
 	border-radius:.25em;
 	color: transparent;
 	
@@ -505,9 +511,9 @@ li[aria-label="like-it"] button {
 	font-size:2.5em;
 
 	-webkit-text-stroke-width:.075em;
-  -webkit-text-stroke-color:magenta;
+  -webkit-text-stroke-color: var(--magenta-accent);
 
-	outline-color:black;
+	outline-color: var(--accent-color-light);
 }
 
 li[aria-label="like-it"] button.liked {
@@ -517,7 +523,7 @@ li[aria-label="like-it"] button.liked {
 	animation-iteration-count:2;
 	animation-fill-mode:forwards;
 	
-  background: magenta;
+  background: var(--magenta-accent);
   background-clip: text;
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
@@ -544,7 +550,7 @@ li[aria-label="like-it"] {
 .tekst-boven,
 .tekst-onder {
   font-family: Rounded, sans-serif;
-  color: magenta;
+  color: var(--magenta-accent);
   font-size: 20px;
   margin: 0;
 }
