@@ -15,6 +15,28 @@ Gekregen feedback van Shakila:
 Gegeven feedback aan Shakila:
 <img width="1122" height="900" alt="Scherm­afbeelding 2026-10-27 om 10 38 55" src="https://github.com/user-attachments/assets/d15ea0fe-8b81-4f09-8d4e-d744ea14c3a8" />
 
+### 25 okt. - Thuis werken
+
+Feedback verwerken:
+-witruimte tussen letters
+<img width="1440" height="773" alt="Scherm­afbeelding 2026-10-27 om 10 43 34" src="https://github.com/user-attachments/assets/a1c7c310-15cb-4c77-9ae0-c99c2f06c321" />
+
+-Cookies cursor pointer toevoegen
+Toegvoegd. (Kan het niet goed screenshotten.)
+
+-alt-tekst bij Cookies attribuut
+<img width="719" height="189" alt="Scherm­afbeelding 2026-10-27 om 10 45 55" src="https://github.com/user-attachments/assets/0c15d723-d2b7-4bba-8976-dfd8c74a822d" />
+
+
+-highlighter op blauw zetten
+
+
+-hover bij topnavigatie
+
+<img width="1440" height="189" alt="Scherm­afbeelding 2026-10-27 om 10 48 18" src="https://github.com/user-attachments/assets/562bb813-3569-49fd-8be8-d870aa66e1d5" />
+
+<img width="1440" height="189" alt="Scherm­afbeelding 2026-10-27 om 10 47 52" src="https://github.com/user-attachments/assets/22d4ff9a-bcfe-4799-90b6-03d76bff02fd" />
+
 ### 23 okt. - Schooldag
 
 Dit is de feedback, die ik heb gekregen van Barbara en een werkstudent:
