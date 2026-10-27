@@ -688,6 +688,15 @@ Wat zijn de mogelijkheden, die je hebt met <iframe>s?
 
 Vandaag had ik mijn eerste deepdives: typografie en MMD (etc.).
 
+Wat ik heb gemaakt bij typografie:
+
+<img width="1440" height="807" alt="Scherm­afbeelding 2026-10-27 om 13 51 49" src="https://github.com/user-attachments/assets/bd231722-760c-452a-a375-8e45594b1086" />
+
+Wat ik bij MMD (etc.). heb gemaakt:
+
+<img width="882" height="171" alt="Scherm­afbeelding 2026-10-27 om 13 55 26" src="https://github.com/user-attachments/assets/c9ebbfcb-9c16-4a92-9cd5-49142354d23d" />
+
+
 ### 31 aug. - Kickoff
 
 Een fork van de model repository gemaakt en gepubliceerd via mijn eigen Github omgeving.
