@@ -1,9 +1,8 @@
-/* MARK: fonts */
 @font-face {
   font-family: 'Seraphs';
-  src: url('assets/style/SeraphsVF.woff2') format('woff2'), /* Modern Browsers */
+  src: url('assets/style/SeraphsVF.woff2') format('woff2');
 }
-/* MARK: items */
+
 body{
   font-family: 'Seraphs';
   display: grid;
@@ -111,7 +110,7 @@ h6 {
 p {
   font-size: 35px;
   color: yellow;
-  transform: translatex(8rem)
+  transform: translatex(8rem);
   font-variation-settings: "wght" 200, "SRFS" 0;
   transition: 3s;
 
