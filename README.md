@@ -344,8 +344,11 @@ Feedback van Vasilis:
 <img width="410" height="364" alt="Scherm­afbeelding 2026-10-02 om 01 02 17" src="https://github.com/user-attachments/assets/21ab5cb6-3eaf-4775-a091-51fc402e00a4" />
 
 
-Ik heb o.a. nieuwe animaties toegevoegd! 
-Ik heb vandaag ook gezorgd dat de animaties niet afspelen, als iemand "reduce motion" heeft aanstaan.
+Ik heb o.a. nieuwe animaties toegevoegd! Ik heb een konijn op een fiets getekend, aangezien dat past bij in Nederland wonen en daar schrijf ik kort over (Nederlands appartment). De konijn fiets dus heen en weer over het scherm en dat is ook weer een knipoog naar het konijn dat heen en weer slide op de homepagina! Ook vond ik dat Nederlandse aspect van het fietsen mooi contrasteren met Bad Bunny, die natuurlijk uit een totaal andere cultuur komt (Puerto Rico). 
+Ik had eerst de fiets nagetekend van een afbeelding online van een icoon van een fiets en daarna had ik een konijn getekend en op de fiets gepositioneerd. Vervolgens heb ik de tekening opgeslagen als png.
+De vinyl animatie heb ik dus toegevoegd, aangezien het gaat over de (muziek)artiest Bad Bunny. De vinyl-animatie is een png-afbeelding van online, die ik laat ronddraaien.
+
+Ik heb vandaag ook gezorgd dat de animaties niet afspelen, als iemand "reduce motion" heeft aanstaan. Dit draagt toe aan de toegankelijkheid van mijn website, voor mensen met bijv. een evenwichtsstoornis, die niet goed tegen animaties kunnen.
 
 
 ### 30 sept. - Schooldag
