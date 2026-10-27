@@ -630,6 +630,11 @@ Experimenteren met topnavigatie (topnav). Ik heb gekozen voor de kalmere look, d
 
 Vandaag was ik bezig met de eerste opzet van mijn Digital Garden. Ik heb besloten om te kiezen voor een wesbite lay out, waar er bovenaan een keuzemenu staat, die je naar verschillende webpagina's kan brengen.
 
+Hier was ik bezig met de deepdive:
+
+<img width="1440" height="748" alt="Scherm­afbeelding 2026-10-27 om 14 12 24" src="https://github.com/user-attachments/assets/fcfaf342-31f5-4cd2-837a-5807e9dc7f20" />
+
+
 ### 9 sept. - Online les
 
 Vandaag hadden we online les ivm OV staking.
