@@ -325,6 +325,7 @@ flush-right = right-aligned
 ### 2 okt. - Schooldag
 
 Feedback van Vasilis:
+
 -focus states vormgeven
 -kopjes met screenreader
 -alt tekst Cookies
