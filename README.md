@@ -18,13 +18,16 @@ Gegeven feedback aan Shakila:
 ### 25 okt. - Thuis werken
 
 Feedback verwerken:
+
 -witruimte tussen letters
+
 <img width="1440" height="773" alt="Scherm­afbeelding 2026-10-27 om 10 43 34" src="https://github.com/user-attachments/assets/a1c7c310-15cb-4c77-9ae0-c99c2f06c321" />
 
 -Cookies cursor pointer toevoegen
 Toegvoegd. (Kan het niet goed screenshotten.)
 
 -alt-tekst bij Cookies attribuut
+
 <img width="719" height="189" alt="Scherm­afbeelding 2026-10-27 om 10 45 55" src="https://github.com/user-attachments/assets/0c15d723-d2b7-4bba-8976-dfd8c74a822d" />
 
 
