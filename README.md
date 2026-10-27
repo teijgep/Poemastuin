@@ -596,6 +596,9 @@ Je kan elementen/aspecten overal op het grid plaatsen (op elke lijn/in elk blok)
 Vandaag was ik naar school gegaan voor de deep dive, dat was erg leerzaam.
 Daarna was ik naar de minorenmarkt gegaan om nu alvast informatie te krijgen over de minoren, waaruit ik kan kiezen in de toekomst.
 
+<img width="1440" height="748" alt="Scherm­afbeelding 2026-10-27 om 14 05 58" src="https://github.com/user-attachments/assets/59713b93-bb19-4d17-a44d-60910635732a" />
+
+
 ### 14 sept - Schooldag
 
 Ik moet ervoor zorgen, dat de website er beter uitziet in klein voormaat, aangezien hij nu er het beste uit ziet in groot formaat.
