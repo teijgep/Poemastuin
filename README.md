@@ -353,6 +353,13 @@ Ik heb vandaag ook gezorgd dat de animaties niet afspelen, als iemand "reduce mo
 
 ### 30 sept. - Schooldag
 
+<img width="602" height="874" alt="Scherm­afbeelding 2026-10-27 om 16 09 44" src="https://github.com/user-attachments/assets/c9d2c19b-fddd-4d5e-890d-88138efc12dd" />
+<img width="622" height="874" alt="Scherm­afbeelding 2026-10-27 om 16 09 25" src="https://github.com/user-attachments/assets/1f4f9e94-3b49-4a1c-b4a6-3c60841af8bd" />
+<img width="661" height="874" alt="Scherm­afbeelding 2026-10-27 om 16 09 59" src="https://github.com/user-attachments/assets/89e74721-60e2-4dd3-bf33-883a985af57f" />
+<img width="661" height="874" alt="Scherm­afbeelding 2026-10-27 om 16 10 09" src="https://github.com/user-attachments/assets/5d3aa5de-7bd8-404f-b896-028a59890d39" />
+<img width="661" height="874" alt="Scherm­afbeelding 2026-10-27 om 16 10 19" src="https://github.com/user-attachments/assets/11447802-5709-445a-9210-04b0bf665eeb" />
+
+
 Website testen:
 
 1. Screenreader
@@ -373,7 +380,6 @@ Heeft elke button een heldere naam?….
 Ja.
 
 2. Alleen-een-toetsenbord
-
 Interactie elementen 
 link, button, dialog, details/summary, inputs…
 Zijn ze allemaal te bereiken met het toetsenbord?
@@ -398,21 +404,17 @@ na:
 <img width="1440" height="810" alt="Scherm­afbeelding 2026-09-30 om 11 51 39" src="https://github.com/user-attachments/assets/9f6a704f-1eda-4fa4-925b-71d44666ffcf" />
 
 Cookies knop vormgeven:
-
 Kijken of ik een foto als knop kan laten dienen.
 
 
 <img width="1440" height="810" alt="Scherm­afbeelding 2026-09-30 om 12 13 47" src="https://github.com/user-attachments/assets/810083af-f673-4ebd-bb5b-60400c4d7169" />
-
-
 Succesvol.
 
 
-Checkout
+Checkout:
+
 Waar staat WCAG en A11y voor?
-
 Web Content Accessibility Guidelines, checklist of je website voldoet aan de toegankelijkheidseisen.
-
 A11y is een afkorting voor "accessibility".
 
 Wat vind je lastiger, je laptop/websites alleen met een toetsenbord bedienen of met een screenreader? Waarom? Waar moet je nog mee oefenen?
@@ -428,6 +430,7 @@ Of heb je al manieren gevonden om vanuit een solide basis  - die voor iedereen t
 Ja, de alt teksten zorgen voor nog meer creatieve uitlaat, want het is tof om leuke becshrijvingen te bedenken voor mensen, die een screenreader gebruiken.
 
 
+Na school:
 
 <img width="105" height="185" alt="Scherm­afbeelding 2026-10-02 om 01 09 12" src="https://github.com/user-attachments/assets/2171e6c0-4e26-4630-afb5-35e3f0b332c5" />
 Ik heb een Cookies-konijn getekend voor de Cookies-functie.
